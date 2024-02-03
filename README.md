@@ -2,4 +2,4 @@
 
 Website and predictions hosted here.
 
-ML @ https://github.com/samherring99/NightwingNBA
+Data & ML @ https://github.com/samherring99/NightwingNBA
