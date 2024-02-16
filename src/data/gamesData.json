@@ -1,3340 +1,864 @@
 [
   {
-    "game_id": "401585405",
-    "game_name": "Atlanta Hawks at Charlotte Hornets",
-    "teams": {
-      "1": [
-        {
-          "player_name": "Bey",
-          "points": "13.169571876525879",
-          "assists": "2.5634825229644775",
-          "rebounds": "2.2598931789398193"
-        },
-        {
-          "player_name": "Johnson",
-          "points": "10.072036743164062",
-          "assists": "1.2104406356811523",
-          "rebounds": "4.745254039764404"
-        },
-        {
-          "player_name": "Capela",
-          "points": "7.812887668609619",
-          "assists": "3.1806092262268066",
-          "rebounds": "6.942292213439941"
-        },
-        {
-          "player_name": "Young",
-          "points": "23.69968605041504",
-          "assists": "8.290729522705078",
-          "rebounds": "2.9660754203796387"
-        },
-        {
-          "player_name": "Murray",
-          "points": "12.795310020446777",
-          "assists": "7.001583099365234",
-          "rebounds": "2.0478878021240234"
-        },
-        {
-          "player_name": "Fernando",
-          "points": "3.935407876968384",
-          "assists": "0.5758157968521118",
-          "rebounds": "3.3790395259857178"
-        },
-        {
-          "player_name": "Okongwu",
-          "points": "9.157109260559082",
-          "assists": "2.6043570041656494",
-          "rebounds": "5.993597984313965"
-        },
-        {
-          "player_name": "Norris",
-          "points": "0.6114014387130737",
-          "assists": "-0.20590437948703766",
-          "rebounds": "1.7460758686065674"
-        },
-        {
-          "player_name": "Griffin",
-          "points": "0.7702991962432861",
-          "assists": "-0.06483536213636398",
-          "rebounds": "-0.07316038012504578"
-        },
-        {
-          "player_name": "Gueye",
-          "points": "2.1694910526275635",
-          "assists": "0.19693078100681305",
-          "rebounds": "0.9214217066764832"
-        },
-        {
-          "player_name": "Mills",
-          "points": "4.363570213317871",
-          "assists": "0.3176516592502594",
-          "rebounds": "-0.4180404543876648"
-        },
-        {
-          "player_name": "Matthews",
-          "points": "4.0470075607299805",
-          "assists": "0.6615416407585144",
-          "rebounds": "-0.31671255826950073"
-        },
-        {
-          "player_name": "Mathews",
-          "points": "3.9809889793395996",
-          "assists": "0.47242820262908936",
-          "rebounds": "1.2365522384643555"
-        },
-        {
-          "player_name": "Forrest",
-          "points": "4.1883769035339355",
-          "assists": "1.8084042072296143",
-          "rebounds": "0.035897910594940186"
-        },
-        {
-          "player_name": "Lundy",
-          "points": "0.019604474306106567",
-          "assists": "0.32205384969711304",
-          "rebounds": "1.3191089630126953"
-        },
-        {
-          "player_name": "Bufkin",
-          "points": "6.006088733673096",
-          "assists": "1.5221856832504272",
-          "rebounds": "-0.011870801448822021"
-        },
-        {
-          "player_name": "Bogdanovic",
-          "points": "9.687962532043457",
-          "assists": "1.1832468509674072",
-          "rebounds": "2.4390769004821777"
-        },
-        {
-          "player_name": "Hunter",
-          "points": "14.955320358276367",
-          "assists": "0.8953036069869995",
-          "rebounds": "3.333526611328125"
-        }
-      ],
-      "30": [
-        {
-          "player_name": "Hayward",
-          "points": "5.65994119644165",
-          "assists": "6.885004043579102",
-          "rebounds": "1.9720840454101562"
-        },
-        {
-          "player_name": "Williams",
-          "points": "7.472754955291748",
-          "assists": "2.6969797611236572",
-          "rebounds": "5.116365432739258"
-        },
-        {
-          "player_name": "Ball",
-          "points": "23.10515594482422",
-          "assists": "10.15045166015625",
-          "rebounds": "5.349161624908447"
-        },
-        {
-          "player_name": "Miller",
-          "points": "5.16017484664917",
-          "assists": "2.523552179336548",
-          "rebounds": "4.415147304534912"
-        },
-        {
-          "player_name": "Thor",
-          "points": "7.583301067352295",
-          "assists": "3.4043755531311035",
-          "rebounds": "3.968721389770508"
-        },
-        {
-          "player_name": "Richards",
-          "points": "9.841110229492188",
-          "assists": "1.7694861888885498",
-          "rebounds": "7.489175319671631"
-        },
-        {
-          "player_name": "Smith Jr.",
-          "points": "15.510357856750488",
-          "assists": "0.492633581161499",
-          "rebounds": "4.149317741394043"
-        },
-        {
-          "player_name": "Mensah",
-          "points": "7.476274490356445",
-          "assists": "1.9542869329452515",
-          "rebounds": "5.309503078460693"
-        },
-        {
-          "player_name": "Sumner",
-          "points": "4.806865692138672",
-          "assists": "2.723384141921997",
-          "rebounds": "1.4816994667053223"
-        },
-        {
-          "player_name": "Ntilikina",
-          "points": "7.483938694000244",
-          "assists": "1.2053158283233643",
-          "rebounds": "2.076408863067627"
-        },
-        {
-          "player_name": "Bridges",
-          "points": "16.696035385131836",
-          "assists": "5.417807579040527",
-          "rebounds": "5.300065517425537"
-        },
-        {
-          "player_name": "I. Smith",
-          "points": "6.516646862030029",
-          "assists": "5.204828262329102",
-          "rebounds": "1.6051411628723145"
-        },
-        {
-          "player_name": "McGowens",
-          "points": "8.564352989196777",
-          "assists": "1.4980236291885376",
-          "rebounds": "1.545231580734253"
-        },
-        {
-          "player_name": "Martin",
-          "points": "8.26345157623291",
-          "assists": "3.0735385417938232",
-          "rebounds": "4.523854732513428"
-        },
-        {
-          "player_name": "Bouknight",
-          "points": "2.808438301086426",
-          "assists": "1.412010669708252",
-          "rebounds": "0.36613374948501587"
-        },
-        {
-          "player_name": "Black",
-          "points": "7.586007595062256",
-          "assists": "0.7452995181083679",
-          "rebounds": "3.2369871139526367"
-        },
-        {
-          "player_name": "Hunter",
-          "points": "2.7909321784973145",
-          "assists": "0.4118534326553345",
-          "rebounds": "-0.08465218544006348"
-        },
-        {
-          "player_name": "Bailey",
-          "points": "4.285801887512207",
-          "assists": "-0.1359604299068451",
-          "rebounds": "0.2352980375289917"
-        },
-        {
-          "player_name": "Mann",
-          "points": "16.830976486206055",
-          "assists": "4.575128555297852",
-          "rebounds": "8.072837829589844"
-        },
-        {
-          "player_name": "Bertans",
-          "points": "2.3518776893615723",
-          "assists": "3.0034642219543457",
-          "rebounds": "1.2747907638549805"
-        },
-        {
-          "player_name": "Micic",
-          "points": "4.775816440582275",
-          "assists": "2.8511393070220947",
-          "rebounds": "4.428337097167969"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585408",
-    "game_name": "Brooklyn Nets at Boston Celtics",
-    "teams": {
-      "2": [
-        {
-          "player_name": "Tatum",
-          "points": "28.43094825744629",
-          "assists": "2.707831859588623",
-          "rebounds": "9.077763557434082"
-        },
-        {
-          "player_name": "Horford",
-          "points": "9.477450370788574",
-          "assists": "6.95582914352417",
-          "rebounds": "6.727992534637451"
-        },
-        {
-          "player_name": "White",
-          "points": "17.039857864379883",
-          "assists": "3.952693223953247",
-          "rebounds": "4.209408283233643"
-        },
-        {
-          "player_name": "Brown",
-          "points": "23.771848678588867",
-          "assists": "5.051732540130615",
-          "rebounds": "4.963719844818115"
-        },
-        {
-          "player_name": "Banton",
-          "points": "15.516091346740723",
-          "assists": "2.8212358951568604",
-          "rebounds": "3.4802441596984863"
-        },
-        {
-          "player_name": "Hauser",
-          "points": "5.1574835777282715",
-          "assists": "0.08166099339723587",
-          "rebounds": "1.6544792652130127"
-        },
-        {
-          "player_name": "Kornet",
-          "points": "3.927898645401001",
-          "assists": "0.7285925149917603",
-          "rebounds": "2.955230236053467"
-        },
-        {
-          "player_name": "Queta",
-          "points": "8.507063865661621",
-          "assists": "0.6191082000732422",
-          "rebounds": "7.521701812744141"
-        },
-        {
-          "player_name": "Pritchard",
-          "points": "8.769566535949707",
-          "assists": "0.41739463806152344",
-          "rebounds": "0.5112016797065735"
-        },
-        {
-          "player_name": "Porzingis",
-          "points": "24.581005096435547",
-          "assists": "3.117262363433838",
-          "rebounds": "11.919010162353516"
-        },
-        {
-          "player_name": "Stevens",
-          "points": "15.246581077575684",
-          "assists": "2.112964391708374",
-          "rebounds": "8.174697875976562"
-        },
-        {
-          "player_name": "Brissett",
-          "points": "5.642371654510498",
-          "assists": "-0.10946052521467209",
-          "rebounds": "3.652637243270874"
-        },
-        {
-          "player_name": "Holiday",
-          "points": "10.1907377243042",
-          "assists": "8.12531852722168",
-          "rebounds": "4.623388290405273"
-        },
-        {
-          "player_name": "Gabriel",
-          "points": "3.6883034706115723",
-          "assists": "-0.643238365650177",
-          "rebounds": "3.142702579498291"
-        },
-        {
-          "player_name": "Mykhailiuk",
-          "points": "10.003449440002441",
-          "assists": "0.3288005590438843",
-          "rebounds": "3.6887216567993164"
-        },
-        {
-          "player_name": "Davison",
-          "points": "4.429096698760986",
-          "assists": "1.4688873291015625",
-          "rebounds": "5.527482509613037"
-        },
-        {
-          "player_name": "Walsh",
-          "points": "4.17289924621582",
-          "assists": "0.2508963942527771",
-          "rebounds": "2.0889711380004883"
-        },
-        {
-          "player_name": "Steward",
-          "points": "2.520503044128418",
-          "assists": "0.3273007869720459",
-          "rebounds": "1.267155408859253"
-        },
-        {
-          "player_name": "Peterson",
-          "points": "3.073349714279175",
-          "assists": "-0.45047444105148315",
-          "rebounds": "1.9180018901824951"
-        }
-      ],
-      "17": [
-        {
-          "player_name": "Finney-Smith",
-          "points": "4.916912078857422",
-          "assists": "1.6923208236694336",
-          "rebounds": "5.9675469398498535"
-        },
-        {
-          "player_name": "C. Johnson",
-          "points": "9.184880256652832",
-          "assists": "1.4736220836639404",
-          "rebounds": "6.160423755645752"
-        },
-        {
-          "player_name": "Bridges",
-          "points": "24.07524299621582",
-          "assists": "4.912764549255371",
-          "rebounds": "6.100170135498047"
-        },
-        {
-          "player_name": "Claxton",
-          "points": "9.65420150756836",
-          "assists": "1.2026340961456299",
-          "rebounds": "7.567838668823242"
-        },
-        {
-          "player_name": "O'Neale",
-          "points": "9.524734497070312",
-          "assists": "3.5007598400115967",
-          "rebounds": "3.7667911052703857"
-        },
-        {
-          "player_name": "Watford",
-          "points": "6.428562641143799",
-          "assists": "2.761934757232666",
-          "rebounds": "3.385254383087158"
-        },
-        {
-          "player_name": "Sharpe",
-          "points": "4.140366554260254",
-          "assists": "1.6814258098602295",
-          "rebounds": "3.6710636615753174"
-        },
-        {
-          "player_name": "Walker IV",
-          "points": "8.064024925231934",
-          "assists": "3.596083879470825",
-          "rebounds": "4.516287326812744"
-        },
-        {
-          "player_name": "Thomas",
-          "points": "25.227949142456055",
-          "assists": "5.151751518249512",
-          "rebounds": "8.277135848999023"
-        },
-        {
-          "player_name": "Smith Jr.",
-          "points": "3.800063133239746",
-          "assists": "2.070324659347534",
-          "rebounds": "0.45417410135269165"
-        },
-        {
-          "player_name": "Wilson",
-          "points": "5.86897611618042",
-          "assists": "1.1075859069824219",
-          "rebounds": "2.054638147354126"
-        },
-        {
-          "player_name": "Brooks",
-          "points": "2.7794666290283203",
-          "assists": "1.0088404417037964",
-          "rebounds": "2.703826427459717"
-        },
-        {
-          "player_name": "Giles III",
-          "points": "3.4830703735351562",
-          "assists": "1.5414707660675049",
-          "rebounds": "0.4822344183921814"
-        },
-        {
-          "player_name": "Simmons",
-          "points": "14.911473274230957",
-          "assists": "5.527651309967041",
-          "rebounds": "7.3751301765441895"
-        },
-        {
-          "player_name": "Bazley",
-          "points": "7.963046550750732",
-          "assists": "2.313812732696533",
-          "rebounds": "2.1199731826782227"
-        },
-        {
-          "player_name": "Clowney",
-          "points": "0.6092045903205872",
-          "assists": "0.22516702115535736",
-          "rebounds": "-0.028243377804756165"
-        },
-        {
-          "player_name": "Whitehead",
-          "points": "4.987498760223389",
-          "assists": "2.5109972953796387",
-          "rebounds": "4.962597846984863"
-        },
-        {
-          "player_name": "K. Johnson",
-          "points": "3.789846420288086",
-          "assists": "2.696199417114258",
-          "rebounds": "3.2838058471679688"
-        },
-        {
-          "player_name": "Bates-Diop",
-          "points": "-0.3168720304965973",
-          "assists": "1.2780506610870361",
-          "rebounds": "3.2621302604675293"
-        },
-        {
-          "player_name": "Schroder",
-          "points": "13.485527992248535",
-          "assists": "0.4139816462993622",
-          "rebounds": "3.505714178085327"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585412",
-    "game_name": "Washington Wizards at New Orleans Pelicans",
-    "teams": {
-      "3": [
-        {
-          "player_name": "Williamson",
-          "points": "13.261981010437012",
-          "assists": "3.7263705730438232",
-          "rebounds": "3.3661065101623535"
-        },
-        {
-          "player_name": "Ingram",
-          "points": "24.48023796081543",
-          "assists": "5.22408390045166",
-          "rebounds": "8.065126419067383"
-        },
-        {
-          "player_name": "H. Jones",
-          "points": "11.831013679504395",
-          "assists": "1.3615338802337646",
-          "rebounds": "5.659282207489014"
-        },
-        {
-          "player_name": "Valanciunas",
-          "points": "4.378041744232178",
-          "assists": "3.9283759593963623",
-          "rebounds": "5.703993320465088"
-        },
-        {
-          "player_name": "McCollum",
-          "points": "25.47731590270996",
-          "assists": "2.1494219303131104",
-          "rebounds": "5.557748317718506"
-        },
-        {
-          "player_name": "Gates",
-          "points": "4.021243095397949",
-          "assists": "1.644392967224121",
-          "rebounds": "1.2750160694122314"
-        },
-        {
-          "player_name": "Liddell",
-          "points": "1.6809055805206299",
-          "assists": "1.3241565227508545",
-          "rebounds": "1.430342435836792"
-        },
-        {
-          "player_name": "Marshall",
-          "points": "2.749638795852661",
-          "assists": "2.9398109912872314",
-          "rebounds": "4.792506694793701"
-        },
-        {
-          "player_name": "Jemison",
-          "points": "4.85599422454834",
-          "assists": "2.1088356971740723",
-          "rebounds": "4.15097188949585"
-        },
-        {
-          "player_name": "Lewis Jr.",
-          "points": "0.6287849545478821",
-          "assists": "0.009371848776936531",
-          "rebounds": "0.03900592029094696"
-        },
-        {
-          "player_name": "Seabron",
-          "points": "1.4452693462371826",
-          "assists": "0.5598585605621338",
-          "rebounds": "0.053158268332481384"
-        },
-        {
-          "player_name": "Hawkins",
-          "points": "2.378861665725708",
-          "assists": "-0.03799325227737427",
-          "rebounds": "0.10783395171165466"
-        },
-        {
-          "player_name": "Daniels",
-          "points": "8.60130786895752",
-          "assists": "0.15606626868247986",
-          "rebounds": "3.1987462043762207"
-        },
-        {
-          "player_name": "Nance Jr.",
-          "points": "8.40798282623291",
-          "assists": "4.228035926818848",
-          "rebounds": "4.045936584472656"
-        },
-        {
-          "player_name": "Ryan",
-          "points": "2.0762813091278076",
-          "assists": "0.5261346101760864",
-          "rebounds": "1.1119775772094727"
-        },
-        {
-          "player_name": "T. Jones",
-          "points": "2.833688259124756",
-          "assists": "1.9536844491958618",
-          "rebounds": "0.9847438931465149"
-        },
-        {
-          "player_name": "Hill",
-          "points": "7.411011219024658",
-          "assists": "1.381329894065857",
-          "rebounds": "1.489323377609253"
-        },
-        {
-          "player_name": "Crutcher",
-          "points": "2.5000710487365723",
-          "assists": "1.929776668548584",
-          "rebounds": "1.4856739044189453"
-        },
-        {
-          "player_name": "Nolley II",
-          "points": "1.7247915267944336",
-          "assists": "1.34212327003479",
-          "rebounds": "0.6037240624427795"
-        },
-        {
-          "player_name": "Brockington",
-          "points": "1.309263825416565",
-          "assists": "0.6984624862670898",
-          "rebounds": "0.7008768916130066"
-        },
-        {
-          "player_name": "Zeller",
-          "points": "3.99877667427063",
-          "assists": "0.7882031798362732",
-          "rebounds": "2.40421462059021"
-        },
-        {
-          "player_name": "Robinson-Earl",
-          "points": "0.691021203994751",
-          "assists": "0.005172131583094597",
-          "rebounds": "0.04754810035228729"
-        },
-        {
-          "player_name": "Alvarado",
-          "points": "8.435111045837402",
-          "assists": "1.9600718021392822",
-          "rebounds": "4.2888898849487305"
-        },
-        {
-          "player_name": "Murphy III",
-          "points": "9.304990768432617",
-          "assists": "2.310809373855591",
-          "rebounds": "3.337472438812256"
-        }
-      ],
-      "27": [
-        {
-          "player_name": "Kuzma",
-          "points": "18.73691749572754",
-          "assists": "1.200815200805664",
-          "rebounds": "4.427207946777344"
-        },
-        {
-          "player_name": "Avdija",
-          "points": "16.805931091308594",
-          "assists": "3.8463072776794434",
-          "rebounds": "4.739757061004639"
-        },
-        {
-          "player_name": "Jones",
-          "points": "16.84629249572754",
-          "assists": "9.746232986450195",
-          "rebounds": "1.3365139961242676"
-        },
-        {
-          "player_name": "Poole",
-          "points": "11.581680297851562",
-          "assists": "3.536789655685425",
-          "rebounds": "2.918365955352783"
-        },
-        {
-          "player_name": "Gill",
-          "points": "1.3685157299041748",
-          "assists": "0.40685784816741943",
-          "rebounds": "2.7842321395874023"
-        },
-        {
-          "player_name": "Omoruyi",
-          "points": "2.2175440788269043",
-          "assists": "0.8045219779014587",
-          "rebounds": "1.5807316303253174"
-        },
-        {
-          "player_name": "Kispert",
-          "points": "8.02482795715332",
-          "assists": "1.8910393714904785",
-          "rebounds": "3.3349647521972656"
-        },
-        {
-          "player_name": "Wright",
-          "points": "4.396949291229248",
-          "assists": "1.0354843139648438",
-          "rebounds": "2.447270154953003"
-        },
-        {
-          "player_name": "Shamet",
-          "points": "1.9039630889892578",
-          "assists": "0.7869788408279419",
-          "rebounds": "3.0210423469543457"
-        },
-        {
-          "player_name": "Coulibaly",
-          "points": "9.790911674499512",
-          "assists": "2.0409324169158936",
-          "rebounds": "5.376924514770508"
-        },
-        {
-          "player_name": "Davis",
-          "points": "5.655543804168701",
-          "assists": "3.6977860927581787",
-          "rebounds": "2.989421844482422"
-        },
-        {
-          "player_name": "Rollins",
-          "points": "5.2650346755981445",
-          "assists": "0.8564331531524658",
-          "rebounds": "3.503079414367676"
-        },
-        {
-          "player_name": "Ja. Butler",
-          "points": "7.183541774749756",
-          "assists": "1.8171343803405762",
-          "rebounds": "1.8571052551269531"
-        },
-        {
-          "player_name": "Baldwin",
-          "points": "1.1032744646072388",
-          "assists": "-0.0416097417473793",
-          "rebounds": "0.5382970571517944"
-        },
-        {
-          "player_name": "Bernard",
-          "points": "1.1131099462509155",
-          "assists": "1.7396788597106934",
-          "rebounds": "2.7766520977020264"
-        },
-        {
-          "player_name": "Cooks",
-          "points": "3.1653189659118652",
-          "assists": "1.232269048690796",
-          "rebounds": "2.2084977626800537"
-        },
-        {
-          "player_name": "Audige",
-          "points": "1.5590437650680542",
-          "assists": "0.9152027368545532",
-          "rebounds": "0.7234829068183899"
-        },
-        {
-          "player_name": "Diallo",
-          "points": "2.439514398574829",
-          "assists": "1.1560016870498657",
-          "rebounds": "2.5208680629730225"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585409",
-    "game_name": "Chicago Bulls at Cleveland Cavaliers",
-    "teams": {
-      "4": [
-        {
-          "player_name": "Williams",
-          "points": "6.192173480987549",
-          "assists": "0.8465230464935303",
-          "rebounds": "2.4961955547332764"
-        },
-        {
-          "player_name": "DeRozan",
-          "points": "30.512636184692383",
-          "assists": "3.6443724632263184",
-          "rebounds": "4.5537190437316895"
-        },
-        {
-          "player_name": "Drummond",
-          "points": "6.3200602531433105",
-          "assists": "0.9623068571090698",
-          "rebounds": "3.989748477935791"
-        },
-        {
-          "player_name": "White",
-          "points": "21.845239639282227",
-          "assists": "5.751852989196777",
-          "rebounds": "2.3296258449554443"
-        },
-        {
-          "player_name": "Caruso",
-          "points": "12.191864967346191",
-          "assists": "3.137017011642456",
-          "rebounds": "8.529197692871094"
-        },
-        {
-          "player_name": "Taylor",
-          "points": "4.220625877380371",
-          "assists": "2.669495105743408",
-          "rebounds": "2.3352460861206055"
-        },
-        {
-          "player_name": "Terry",
-          "points": "2.515225887298584",
-          "assists": "2.2608416080474854",
-          "rebounds": "0.6299692988395691"
-        },
-        {
-          "player_name": "Carter",
-          "points": "7.277264595031738",
-          "assists": "2.3249080181121826",
-          "rebounds": "3.1764676570892334"
-        },
-        {
-          "player_name": "Dosunmu",
-          "points": "20.98937225341797",
-          "assists": "5.318906784057617",
-          "rebounds": "4.64825963973999"
-        },
-        {
-          "player_name": "Vucevic",
-          "points": "25.70977783203125",
-          "assists": "2.7723886966705322",
-          "rebounds": "11.270833015441895"
-        },
-        {
-          "player_name": "LaVine",
-          "points": "7.463566303253174",
-          "assists": "2.8229055404663086",
-          "rebounds": "1.6936798095703125"
-        },
-        {
-          "player_name": "Phillips",
-          "points": "1.1538641452789307",
-          "assists": "0.9168803691864014",
-          "rebounds": "0.6226459741592407"
-        },
-        {
-          "player_name": "Craig",
-          "points": "7.699782371520996",
-          "assists": "4.53446626663208",
-          "rebounds": "2.7664005756378174"
-        },
-        {
-          "player_name": "Drell",
-          "points": "1.068422555923462",
-          "assists": "0.6332048177719116",
-          "rebounds": "0.6814956665039062"
-        },
-        {
-          "player_name": "Lewis",
-          "points": "5.130900859832764",
-          "assists": "1.8966187238693237",
-          "rebounds": "3.9962334632873535"
-        },
-        {
-          "player_name": "Bitim",
-          "points": "2.7232553958892822",
-          "assists": "1.2744019031524658",
-          "rebounds": "0.599593997001648"
-        },
-        {
-          "player_name": "Sanogo",
-          "points": "1.9348928928375244",
-          "assists": "0.8519377708435059",
-          "rebounds": "0.5599402785301208"
-        },
-        {
-          "player_name": "Heidegger",
-          "points": "4.788955211639404",
-          "assists": "2.0716073513031006",
-          "rebounds": "3.768501043319702"
-        },
-        {
-          "player_name": "Jones",
-          "points": "0.21500882506370544",
-          "assists": "1.3497925996780396",
-          "rebounds": "1.2342605590820312"
-        },
-        {
-          "player_name": "Jackson",
-          "points": "0.6050783395767212",
-          "assists": "0.5086643099784851",
-          "rebounds": "0.11976945400238037"
-        }
-      ],
-      "5": [
-        {
-          "player_name": "E. Mobley",
-          "points": "9.968329429626465",
-          "assists": "2.445272207260132",
-          "rebounds": "10.009075164794922"
-        },
-        {
-          "player_name": "Garland",
-          "points": "15.371148109436035",
-          "assists": "8.001445770263672",
-          "rebounds": "3.7549266815185547"
-        },
-        {
-          "player_name": "LeVert",
-          "points": "12.74615478515625",
-          "assists": "4.530959129333496",
-          "rebounds": "2.761929750442505"
-        },
-        {
-          "player_name": "Mitchell",
-          "points": "22.56027603149414",
-          "assists": "5.430036544799805",
-          "rebounds": "4.214877605438232"
-        },
-        {
-          "player_name": "Strus",
-          "points": "7.986809253692627",
-          "assists": "4.0485520362854",
-          "rebounds": "0.6518053412437439"
-        },
-        {
-          "player_name": "Wade",
-          "points": "7.7051100730896",
-          "assists": "0.5546405911445618",
-          "rebounds": "2.6878297328948975"
-        },
-        {
-          "player_name": "I. Mobley",
-          "points": "0.4608111083507538",
-          "assists": "1.432231068611145",
-          "rebounds": "1.5825121402740479"
-        },
-        {
-          "player_name": "Bates",
-          "points": "8.038931846618652",
-          "assists": "1.3352382183074951",
-          "rebounds": "0.42519110441207886"
-        },
-        {
-          "player_name": "Niang",
-          "points": "10.882044792175293",
-          "assists": "1.079573392868042",
-          "rebounds": "5.2351813316345215"
-        },
-        {
-          "player_name": "Okoro",
-          "points": "11.411519050598145",
-          "assists": "0.18076969683170319",
-          "rebounds": "4.407303333282471"
-        },
-        {
-          "player_name": "Thompson",
-          "points": "8.55417251586914",
-          "assists": "1.2556476593017578",
-          "rebounds": "5.371229648590088"
-        },
-        {
-          "player_name": "Jones",
-          "points": "3.611660957336426",
-          "assists": "0.7840531468391418",
-          "rebounds": "1.5024189949035645"
-        },
-        {
-          "player_name": "Cooper",
-          "points": "6.919632434844971",
-          "assists": "1.5179553031921387",
-          "rebounds": "0.83970707654953"
-        },
-        {
-          "player_name": "Jerome",
-          "points": "6.455485820770264",
-          "assists": "3.7304465770721436",
-          "rebounds": "1.7077031135559082"
-        },
-        {
-          "player_name": "Merrill",
-          "points": "8.623597145080566",
-          "assists": "3.081509828567505",
-          "rebounds": "1.6656062602996826"
-        },
-        {
-          "player_name": "Smith",
-          "points": "8.55605411529541",
-          "assists": "1.6072148084640503",
-          "rebounds": "1.4871416091918945"
-        },
-        {
-          "player_name": "Porter Jr.",
-          "points": "6.075080394744873",
-          "assists": "1.3960192203521729",
-          "rebounds": "3.068146228790283"
-        },
-        {
-          "player_name": "Allen",
-          "points": "14.669487953186035",
-          "assists": "4.466741561889648",
-          "rebounds": "7.160277843475342"
-        },
-        {
-          "player_name": "Nance",
-          "points": "8.528136253356934",
-          "assists": "1.5106770992279053",
-          "rebounds": "4.7820820808410645"
-        },
-        {
-          "player_name": "Powell",
-          "points": "5.895021915435791",
-          "assists": "2.114107608795166",
-          "rebounds": "2.584653377532959"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585413",
-    "game_name": "San Antonio Spurs at Dallas Mavericks",
-    "teams": {
-      "6": [
-        {
-          "player_name": "Williams",
-          "points": "19.805559158325195",
-          "assists": "4.327829837799072",
-          "rebounds": "8.375322341918945"
-        },
-        {
-          "player_name": "Jones Jr.",
-          "points": "2.8908181190490723",
-          "assists": "1.0134127140045166",
-          "rebounds": "1.621046781539917"
-        },
-        {
-          "player_name": "Lively II",
-          "points": "11.273150444030762",
-          "assists": "-0.05353675037622452",
-          "rebounds": "8.638615608215332"
-        },
-        {
-          "player_name": "Irving",
-          "points": "27.883108139038086",
-          "assists": "5.422204494476318",
-          "rebounds": "8.289360046386719"
-        },
-        {
-          "player_name": "Doncic",
-          "points": "26.87972068786621",
-          "assists": "7.933442115783691",
-          "rebounds": "13.652335166931152"
-        },
-        {
-          "player_name": "Morris",
-          "points": "2.991298198699951",
-          "assists": "1.5485590696334839",
-          "rebounds": "-0.16099286079406738"
-        },
-        {
-          "player_name": "Holmes",
-          "points": "3.4912242889404297",
-          "assists": "3.2008211612701416",
-          "rebounds": "3.3066158294677734"
-        },
-        {
-          "player_name": "Prosper",
-          "points": "0.78032386302948",
-          "assists": "1.0731244087219238",
-          "rebounds": "0.25195491313934326"
-        },
-        {
-          "player_name": "Hardaway Jr.",
-          "points": "6.500420093536377",
-          "assists": "2.8373663425445557",
-          "rebounds": "1.1524462699890137"
-        },
-        {
-          "player_name": "Powell",
-          "points": "2.1512680053710938",
-          "assists": "1.0861811637878418",
-          "rebounds": "1.6689486503601074"
-        },
-        {
-          "player_name": "Curry",
-          "points": "10.77980899810791",
-          "assists": "4.3335280418396",
-          "rebounds": "3.6211342811584473"
-        },
-        {
-          "player_name": "Green",
-          "points": "8.100820541381836",
-          "assists": "2.5058035850524902",
-          "rebounds": "5.288336277008057"
-        },
-        {
-          "player_name": "Exum",
-          "points": "10.28088665008545",
-          "assists": "3.324763298034668",
-          "rebounds": "2.0279109477996826"
-        },
-        {
-          "player_name": "Hardy",
-          "points": "8.278763771057129",
-          "assists": "3.0366101264953613",
-          "rebounds": "2.1486167907714844"
-        },
-        {
-          "player_name": "Kleber",
-          "points": "4.217492580413818",
-          "assists": "1.843925952911377",
-          "rebounds": "0.8278596997261047"
-        },
-        {
-          "player_name": "Brown III",
-          "points": "3.195582628250122",
-          "assists": "0.6684684753417969",
-          "rebounds": "0.8491644859313965"
-        },
-        {
-          "player_name": "Wieskamp",
-          "points": "3.859010696411133",
-          "assists": "0.40544357895851135",
-          "rebounds": "0.7863997220993042"
-        },
-        {
-          "player_name": "Walker",
-          "points": "4.642755031585693",
-          "assists": "2.992422580718994",
-          "rebounds": "0.32476866245269775"
-        },
-        {
-          "player_name": "Lawson",
-          "points": "1.0713622570037842",
-          "assists": "0.6294558644294739",
-          "rebounds": "-0.20651552081108093"
-        },
-        {
-          "player_name": "Dennis",
-          "points": "2.8133788108825684",
-          "assists": "0.862647533416748",
-          "rebounds": "-0.23093187808990479"
-        },
-        {
-          "player_name": "B. Williams",
-          "points": "3.9059460163116455",
-          "assists": "3.637964963912964",
-          "rebounds": "1.6410298347473145"
-        },
-        {
-          "player_name": "Washington",
-          "points": "17.692646026611328",
-          "assists": "4.594306945800781",
-          "rebounds": "4.229337215423584"
-        },
-        {
-          "player_name": "Gafford",
-          "points": "12.105053901672363",
-          "assists": "3.8116042613983154",
-          "rebounds": "12.822999954223633"
-        }
-      ],
-      "24": [
-        {
-          "player_name": "Collins",
-          "points": "11.057896614074707",
-          "assists": "0.6618425250053406",
-          "rebounds": "2.7633004188537598"
-        },
-        {
-          "player_name": "Sochan",
-          "points": "20.61769676208496",
-          "assists": "2.5213229656219482",
-          "rebounds": "5.523382663726807"
-        },
-        {
-          "player_name": "Johnson",
-          "points": "20.263532638549805",
-          "assists": "4.170929908752441",
-          "rebounds": "8.785589218139648"
-        },
-        {
-          "player_name": "Wembanyama",
-          "points": "22.73085594177246",
-          "assists": "4.159327983856201",
-          "rebounds": "13.508382797241211"
-        },
-        {
-          "player_name": "Branham",
-          "points": "7.309430122375488",
-          "assists": "1.7540854215621948",
-          "rebounds": "2.455951452255249"
-        },
-        {
-          "player_name": "Champagnie",
-          "points": "3.865997552871704",
-          "assists": "0.32500913739204407",
-          "rebounds": "0.9683501124382019"
-        },
-        {
-          "player_name": "Osman",
-          "points": "7.877058506011963",
-          "assists": "1.104247808456421",
-          "rebounds": "2.2630441188812256"
-        },
-        {
-          "player_name": "Bassey",
-          "points": "7.069310665130615",
-          "assists": "2.4411795139312744",
-          "rebounds": "5.966472148895264"
-        },
-        {
-          "player_name": "Jones",
-          "points": "9.759283065795898",
-          "assists": "5.268016815185547",
-          "rebounds": "6.770349502563477"
-        },
-        {
-          "player_name": "Vassell",
-          "points": "12.155533790588379",
-          "assists": "3.518770217895508",
-          "rebounds": "4.621828556060791"
-        },
-        {
-          "player_name": "Mamukelashvili",
-          "points": "2.4154443740844727",
-          "assists": "0.8251890540122986",
-          "rebounds": "0.6448338031768799"
-        },
-        {
-          "player_name": "Barlow",
-          "points": "6.094069480895996",
-          "assists": "-0.06694813072681427",
-          "rebounds": "0.8517698645591736"
-        },
-        {
-          "player_name": "Graham",
-          "points": "3.0509400367736816",
-          "assists": "0.6609722375869751",
-          "rebounds": "2.8437740802764893"
-        },
-        {
-          "player_name": "Wesley",
-          "points": "4.639585018157959",
-          "assists": "1.7422330379486084",
-          "rebounds": "6.7334136962890625"
-        },
-        {
-          "player_name": "Cissoko",
-          "points": "2.336726427078247",
-          "assists": "0.39401403069496155",
-          "rebounds": "2.3579001426696777"
-        },
-        {
-          "player_name": "Diakite",
-          "points": "3.7983193397521973",
-          "assists": "0.10186634212732315",
-          "rebounds": "1.6595509052276611"
-        },
-        {
-          "player_name": "Bediako",
-          "points": "2.9553780555725098",
-          "assists": "0.8181852102279663",
-          "rebounds": "3.0860202312469482"
-        },
-        {
-          "player_name": "Rice",
-          "points": "1.505249261856079",
-          "assists": "0.2561172544956207",
-          "rebounds": "0.8290520310401917"
-        },
-        {
-          "player_name": "Birch",
-          "points": "5.442185401916504",
-          "assists": "0.8782790899276733",
-          "rebounds": "3.880856990814209"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585414",
-    "game_name": "Sacramento Kings at Denver Nuggets",
-    "teams": {
-      "7": [
-        {
-          "player_name": "Gordon",
-          "points": "14.613799095153809",
-          "assists": "1.5939960479736328",
-          "rebounds": "6.13422966003418"
-        },
-        {
-          "player_name": "Porter Jr.",
-          "points": "14.174237251281738",
-          "assists": "3.4386398792266846",
-          "rebounds": "2.60699462890625"
-        },
-        {
-          "player_name": "Jokic",
-          "points": "28.77394676208496",
-          "assists": "3.6422226428985596",
-          "rebounds": "12.623920440673828"
-        },
-        {
-          "player_name": "Murray",
-          "points": "8.526543617248535",
-          "assists": "0.973063588142395",
-          "rebounds": "3.827577590942383"
-        },
-        {
-          "player_name": "Caldwell-Pope",
-          "points": "3.8112826347351074",
-          "assists": "-0.12674552202224731",
-          "rebounds": "1.1013703346252441"
-        },
-        {
-          "player_name": "Nnaji",
-          "points": "3.604217529296875",
-          "assists": "0.46393269300460815",
-          "rebounds": "4.788729667663574"
-        },
-        {
-          "player_name": "Watson",
-          "points": "6.595705986022949",
-          "assists": "1.297562599182129",
-          "rebounds": "5.3690361976623535"
-        },
-        {
-          "player_name": "Jackson",
-          "points": "5.355467319488525",
-          "assists": "3.021355152130127",
-          "rebounds": "2.191272258758545"
-        },
-        {
-          "player_name": "Braun",
-          "points": "7.1094441413879395",
-          "assists": "1.3124339580535889",
-          "rebounds": "4.211572647094727"
-        },
-        {
-          "player_name": "Strawther",
-          "points": "3.5775585174560547",
-          "assists": "0.31614193320274353",
-          "rebounds": "0.9579023718833923"
-        },
-        {
-          "player_name": "Key",
-          "points": "4.9868292808532715",
-          "assists": "1.9020696878433228",
-          "rebounds": "3.7504827976226807"
-        },
-        {
-          "player_name": "Tyson",
-          "points": "7.8967108726501465",
-          "assists": "1.0891928672790527",
-          "rebounds": "1.8100595474243164"
-        },
-        {
-          "player_name": "Gillespie",
-          "points": "3.880465030670166",
-          "assists": "1.0102988481521606",
-          "rebounds": "2.0891032218933105"
-        },
-        {
-          "player_name": "Pickett",
-          "points": "2.6723904609680176",
-          "assists": "2.743013381958008",
-          "rebounds": "2.0058298110961914"
-        },
-        {
-          "player_name": "Holiday",
-          "points": "0.831263542175293",
-          "assists": "3.7577037811279297",
-          "rebounds": "3.9227380752563477"
-        },
-        {
-          "player_name": "Jordan",
-          "points": "0.778876543045044",
-          "assists": "0.13406406342983246",
-          "rebounds": "3.129340171813965"
-        },
-        {
-          "player_name": "Huff",
-          "points": "1.6809399127960205",
-          "assists": "0.43699926137924194",
-          "rebounds": "0.6719053983688354"
-        },
-        {
-          "player_name": "Funk",
-          "points": "4.872755527496338",
-          "assists": "0.3061005771160126",
-          "rebounds": "2.4934868812561035"
-        },
-        {
-          "player_name": "Franklin",
-          "points": "4.359442234039307",
-          "assists": "1.6326566934585571",
-          "rebounds": "2.4976789951324463"
-        },
-        {
-          "player_name": "Jam. Pickett",
-          "points": "2.950676441192627",
-          "assists": "1.7784148454666138",
-          "rebounds": "2.3098151683807373"
-        },
-        {
-          "player_name": "Brimah",
-          "points": "4.582536220550537",
-          "assists": "0.9546608924865723",
-          "rebounds": "6.637936115264893"
-        },
-        {
-          "player_name": "Toney",
-          "points": "2.77870512008667",
-          "assists": "1.794367790222168",
-          "rebounds": "0.9565396904945374"
-        }
-      ],
-      "23": [
-        {
-          "player_name": "Sabonis",
-          "points": "23.01803207397461",
-          "assists": "5.762293338775635",
-          "rebounds": "14.641904830932617"
-        },
-        {
-          "player_name": "Barnes",
-          "points": "11.457266807556152",
-          "assists": "1.2923033237457275",
-          "rebounds": "5.654305934906006"
-        },
-        {
-          "player_name": "Murray",
-          "points": "9.978318214416504",
-          "assists": "0.8140203952789307",
-          "rebounds": "3.8112282752990723"
-        },
-        {
-          "player_name": "Fox",
-          "points": "31.247421264648438",
-          "assists": "5.889256477355957",
-          "rebounds": "6.051535129547119"
-        },
-        {
-          "player_name": "Huerter",
-          "points": "8.450058937072754",
-          "assists": "1.651246190071106",
-          "rebounds": "2.775602340698242"
-        },
-        {
-          "player_name": "Lyles",
-          "points": "5.667797565460205",
-          "assists": "1.032979965209961",
-          "rebounds": "1.1477060317993164"
-        },
-        {
-          "player_name": "Len",
-          "points": "3.043942451477051",
-          "assists": "0.5129343271255493",
-          "rebounds": "4.253501892089844"
-        },
-        {
-          "player_name": "Mitchell",
-          "points": "3.5419788360595703",
-          "assists": "0.10773152858018875",
-          "rebounds": "1.0116612911224365"
-        },
-        {
-          "player_name": "Monk",
-          "points": "18.13749885559082",
-          "assists": "4.793537616729736",
-          "rebounds": "1.3535871505737305"
-        },
-        {
-          "player_name": "Duarte",
-          "points": "4.040089130401611",
-          "assists": "2.3161299228668213",
-          "rebounds": "1.2187151908874512"
-        },
-        {
-          "player_name": "Vezenkov",
-          "points": "3.84839129447937",
-          "assists": "1.2506247758865356",
-          "rebounds": "2.5312209129333496"
-        },
-        {
-          "player_name": "Toscano-Anderson",
-          "points": "2.5196285247802734",
-          "assists": "0.9332211017608643",
-          "rebounds": "0.6970409154891968"
-        },
-        {
-          "player_name": "Edwards",
-          "points": "0.4711266756057739",
-          "assists": "0.17256449162960052",
-          "rebounds": "0.9455203413963318"
-        },
-        {
-          "player_name": "McGee",
-          "points": "2.9037349224090576",
-          "assists": "0.20252260565757751",
-          "rebounds": "1.9127910137176514"
-        },
-        {
-          "player_name": "Ellis",
-          "points": "3.3749277591705322",
-          "assists": "-0.00949772261083126",
-          "rebounds": "2.593883514404297"
-        },
-        {
-          "player_name": "Slawson",
-          "points": "8.56444263458252",
-          "assists": "0.9057462215423584",
-          "rebounds": "4.688461780548096"
-        },
-        {
-          "player_name": "Jones",
-          "points": "2.126474618911743",
-          "assists": "0.45922985672950745",
-          "rebounds": "3.6412062644958496"
-        },
-        {
-          "player_name": "Ford",
-          "points": "-0.10418477654457092",
-          "assists": "0.7963602542877197",
-          "rebounds": "2.216805934906006"
-        },
-        {
-          "player_name": "Nowell",
-          "points": "3.5421249866485596",
-          "assists": "1.6359107494354248",
-          "rebounds": "0.4515818953514099"
-        },
-        {
-          "player_name": "Burton",
-          "points": "1.3304365873336792",
-          "assists": "0.8396963477134705",
-          "rebounds": "3.7876179218292236"
-        },
-        {
-          "player_name": "Lamb",
-          "points": "4.22754430770874",
-          "assists": "0.8843737244606018",
-          "rebounds": "1.1330687999725342"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585415",
-    "game_name": "Detroit Pistons at Phoenix Suns",
-    "teams": {
-      "8": [
-        {
-          "player_name": "Bagley III",
-          "points": "11.396645545959473",
-          "assists": "2.6381642818450928",
-          "rebounds": "7.204911708831787"
-        },
-        {
-          "player_name": "Thompson",
-          "points": "13.13346004486084",
-          "assists": "1.978137731552124",
-          "rebounds": "5.140395164489746"
-        },
-        {
-          "player_name": "Stewart",
-          "points": "10.129181861877441",
-          "assists": "1.1612348556518555",
-          "rebounds": "3.524550676345825"
-        },
-        {
-          "player_name": "Cunningham",
-          "points": "21.81165885925293",
-          "assists": "6.3725690841674805",
-          "rebounds": "5.323306560516357"
-        },
-        {
-          "player_name": "Hayes",
-          "points": "6.36239767074585",
-          "assists": "3.4868528842926025",
-          "rebounds": "3.026808261871338"
-        },
-        {
-          "player_name": "Knox II",
-          "points": "4.99267053604126",
-          "assists": "-0.09290950745344162",
-          "rebounds": "1.0573537349700928"
-        },
-        {
-          "player_name": "Wiseman",
-          "points": "14.44377613067627",
-          "assists": "3.1234495639801025",
-          "rebounds": "8.936408996582031"
-        },
-        {
-          "player_name": "Ivey",
-          "points": "14.607953071594238",
-          "assists": "4.145289897918701",
-          "rebounds": "5.154822826385498"
-        },
-        {
-          "player_name": "Burks",
-          "points": "4.694296360015869",
-          "assists": "1.7777252197265625",
-          "rebounds": "1.4506072998046875"
-        },
-        {
-          "player_name": "Sasser",
-          "points": "4.33660888671875",
-          "assists": "1.1352916955947876",
-          "rebounds": "1.815911054611206"
-        },
-        {
-          "player_name": "Bogdanovic",
-          "points": "16.34333038330078",
-          "assists": "3.036571979522705",
-          "rebounds": "6.2425150871276855"
-        },
-        {
-          "player_name": "Livers",
-          "points": "2.2075252532958984",
-          "assists": "0.22270318865776062",
-          "rebounds": "-0.21073555946350098"
-        },
-        {
-          "player_name": "Harris",
-          "points": "2.3772058486938477",
-          "assists": "1.8037258386611938",
-          "rebounds": "0.9540831446647644"
-        },
-        {
-          "player_name": "Duren",
-          "points": "8.849296569824219",
-          "assists": "1.5831494331359863",
-          "rebounds": "6.450125694274902"
-        },
-        {
-          "player_name": "Umude",
-          "points": "2.9427809715270996",
-          "assists": "0.951960563659668",
-          "rebounds": "1.0090444087982178"
-        },
-        {
-          "player_name": "Boeheim",
-          "points": "3.053968906402588",
-          "assists": "0.31773388385772705",
-          "rebounds": "-0.10117170214653015"
-        },
-        {
-          "player_name": "Evbuomwan",
-          "points": "1.6303428411483765",
-          "assists": "0.027275318279862404",
-          "rebounds": "-0.3579285144805908"
-        },
-        {
-          "player_name": "Porter",
-          "points": "3.19917631149292",
-          "assists": "1.2164415121078491",
-          "rebounds": "1.9220609664916992"
-        },
-        {
-          "player_name": "Simpson",
-          "points": "7.280369758605957",
-          "assists": "3.8837599754333496",
-          "rebounds": "3.3178887367248535"
-        },
-        {
-          "player_name": "Rhoden",
-          "points": "1.838802695274353",
-          "assists": "1.0909957885742188",
-          "rebounds": "1.0566563606262207"
-        },
-        {
-          "player_name": "Cazalon",
-          "points": "3.192997455596924",
-          "assists": "0.9529156684875488",
-          "rebounds": "0.5023032426834106"
-        },
-        {
-          "player_name": "Muscala",
-          "points": "1.3097560405731201",
-          "assists": "-0.06286608427762985",
-          "rebounds": "-0.03200528025627136"
-        },
-        {
-          "player_name": "Gallinari",
-          "points": "2.0334696769714355",
-          "assists": "0.5847785472869873",
-          "rebounds": "0.8509861826896667"
-        },
-        {
-          "player_name": "Morris",
-          "points": "2.536454200744629",
-          "assists": "0.5138064622879028",
-          "rebounds": "0.7480948567390442"
-        },
-        {
-          "player_name": "Fontecchio",
-          "points": "3.447721242904663",
-          "assists": "1.209132194519043",
-          "rebounds": "3.07613205909729"
-        },
-        {
-          "player_name": "Brown Jr.",
-          "points": "3.4405629634857178",
-          "assists": "1.4081504344940186",
-          "rebounds": "1.8315136432647705"
-        },
-        {
-          "player_name": "Milton",
-          "points": "6.44287633895874",
-          "assists": "2.6467509269714355",
-          "rebounds": "4.735558032989502"
-        },
-        {
-          "player_name": "Flynn",
-          "points": "1.9875578880310059",
-          "assists": "0.48413723707199097",
-          "rebounds": "0.6020623445510864"
-        },
-        {
-          "player_name": "Fournier",
-          "points": "2.706120491027832",
-          "assists": "0.4215741455554962",
-          "rebounds": "2.812558650970459"
-        }
-      ],
-      "21": [
-        {
-          "player_name": "Durant",
-          "points": "16.856340408325195",
-          "assists": "3.642468214035034",
-          "rebounds": "10.110433578491211"
-        },
-        {
-          "player_name": "Nurkic",
-          "points": "11.530242919921875",
-          "assists": "1.11469304561615",
-          "rebounds": "7.0326762199401855"
-        },
-        {
-          "player_name": "Beal",
-          "points": "3.6928958892822266",
-          "assists": "1.1490635871887207",
-          "rebounds": "1.7218847274780273"
-        },
-        {
-          "player_name": "Allen",
-          "points": "9.133374214172363",
-          "assists": "1.674182653427124",
-          "rebounds": "5.868322849273682"
-        },
-        {
-          "player_name": "Eubanks",
-          "points": "2.742074728012085",
-          "assists": "1.9717302322387695",
-          "rebounds": "2.1332993507385254"
-        },
-        {
-          "player_name": "Watanabe",
-          "points": "12.537976264953613",
-          "assists": "0.764426589012146",
-          "rebounds": "3.2515101432800293"
-        },
-        {
-          "player_name": "Okogie",
-          "points": "8.398201942443848",
-          "assists": "1.2419363260269165",
-          "rebounds": "4.693661689758301"
-        },
-        {
-          "player_name": "Gordon",
-          "points": "14.9291410446167",
-          "assists": "1.1367943286895752",
-          "rebounds": "2.7970919609069824"
-        },
-        {
-          "player_name": "Goodwin",
-          "points": "0.664320707321167",
-          "assists": "1.1634695529937744",
-          "rebounds": "1.94706130027771"
-        },
-        {
-          "player_name": "Booker",
-          "points": "21.650665283203125",
-          "assists": "8.716958999633789",
-          "rebounds": "1.7115097045898438"
-        },
-        {
-          "player_name": "Metu",
-          "points": "3.719949722290039",
-          "assists": "0.8390532732009888",
-          "rebounds": "1.0422987937927246"
-        },
-        {
-          "player_name": "Little",
-          "points": "5.741819858551025",
-          "assists": "-0.07063885033130646",
-          "rebounds": "2.5647408962249756"
-        },
-        {
-          "player_name": "Azubuike",
-          "points": "0.7368016839027405",
-          "assists": "0.6083101630210876",
-          "rebounds": "1.0485897064208984"
-        },
-        {
-          "player_name": "S. Lee",
-          "points": "1.2792587280273438",
-          "assists": "1.9687581062316895",
-          "rebounds": "0.7939042448997498"
-        },
-        {
-          "player_name": "Bol",
-          "points": "7.54611349105835",
-          "assists": "0.909748911857605",
-          "rebounds": "3.054814338684082"
-        },
-        {
-          "player_name": "Maledon",
-          "points": "1.2792587280273438",
-          "assists": "1.9687581062316895",
-          "rebounds": "0.7939042448997498"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585417",
-    "game_name": "LA Clippers at Golden State Warriors",
+    "game_id": "401636113",
+    "game_name": "Golden State Warriors at Utah Jazz",
     "teams": {
       "9": [
         {
           "player_name": "Kuminga",
-          "points": "14.296375274658203",
-          "assists": "2.4340479373931885",
-          "rebounds": "3.9359641075134277"
+          "points": "20.616918563842773",
+          "assists": "3.0526273250579834",
+          "rebounds": "6.791477680206299"
         },
         {
           "player_name": "Looney",
-          "points": "6.115522384643555",
-          "assists": "0.36182117462158203",
-          "rebounds": "3.409503936767578"
+          "points": "1.903918743133545",
+          "assists": "1.1375657320022583",
+          "rebounds": "0.00100022554397583"
         },
         {
           "player_name": "Curry",
-          "points": "22.481595993041992",
-          "assists": "9.35626220703125",
-          "rebounds": "4.2365193367004395"
+          "points": "31.863840103149414",
+          "assists": "7.431971549987793",
+          "rebounds": "4.585067272186279"
         },
         {
           "player_name": "Thompson",
-          "points": "21.874279022216797",
-          "assists": "1.976940631866455",
-          "rebounds": "5.772383213043213"
+          "points": "18.1688289642334",
+          "assists": "2.448664426803589",
+          "rebounds": "4.03384256362915"
         },
         {
           "player_name": "Podziemski",
-          "points": "11.510382652282715",
-          "assists": "4.234771251678467",
-          "rebounds": "1.683459758758545"
+          "points": "12.026984214782715",
+          "assists": "5.146669387817383",
+          "rebounds": "6.310716152191162"
         },
         {
           "player_name": "Saric",
-          "points": "6.829370975494385",
-          "assists": "-0.16131246089935303",
-          "rebounds": "2.127458333969116"
+          "points": "0.13102421164512634",
+          "assists": "1.5911496877670288",
+          "rebounds": "0.6353644728660583"
         },
         {
           "player_name": "Jackson-Davis",
-          "points": "1.8322510719299316",
-          "assists": "-0.5016635060310364",
-          "rebounds": "4.002571105957031"
+          "points": "4.371811389923096",
+          "assists": "-0.45768868923187256",
+          "rebounds": "1.4586517810821533"
         },
         {
           "player_name": "Wiggins",
-          "points": "8.656189918518066",
-          "assists": "4.026434421539307",
-          "rebounds": "1.201077938079834"
+          "points": "9.47037124633789",
+          "assists": "3.702467441558838",
+          "rebounds": "6.12003755569458"
         },
         {
           "player_name": "Paul",
-          "points": "12.590943336486816",
-          "assists": "2.858872890472412",
-          "rebounds": "4.836764335632324"
+          "points": "7.186696529388428",
+          "assists": "4.592535495758057",
+          "rebounds": "4.262658596038818"
         },
         {
           "player_name": "Joseph",
-          "points": "4.991004467010498",
-          "assists": "0.6974971294403076",
-          "rebounds": "0.5232313275337219"
+          "points": "4.56960916519165",
+          "assists": "0.2080383449792862",
+          "rebounds": "0.2888115644454956"
         },
         {
           "player_name": "Moody",
-          "points": "2.7080368995666504",
-          "assists": "0.15648724138736725",
-          "rebounds": "1.2686166763305664"
+          "points": "1.436117172241211",
+          "assists": "0.33610978722572327",
+          "rebounds": "0.379401296377182"
         },
         {
           "player_name": "Green",
-          "points": "15.285303115844727",
-          "assists": "5.582649230957031",
-          "rebounds": "6.312907695770264"
+          "points": "17.722476959228516",
+          "assists": "3.5761311054229736",
+          "rebounds": "9.404245376586914"
         },
         {
           "player_name": "Payton II",
-          "points": "7.8169331550598145",
-          "assists": "2.4258041381835938",
-          "rebounds": "5.049426555633545"
+          "points": "2.4783291816711426",
+          "assists": "1.2084007263183594",
+          "rebounds": "1.1967518329620361"
         },
         {
           "player_name": "Robinson",
-          "points": "3.0347719192504883",
-          "assists": "0.13257569074630737",
-          "rebounds": "0.25607025623321533"
+          "points": "0.6735725402832031",
+          "assists": "0.4264771342277527",
+          "rebounds": "0.44028347730636597"
         },
         {
           "player_name": "Quinones",
-          "points": "9.691014289855957",
-          "assists": "1.5133960247039795",
-          "rebounds": "1.2305266857147217"
+          "points": "1.7697337865829468",
+          "assists": "0.30935120582580566",
+          "rebounds": "0.3910401463508606"
         },
         {
           "player_name": "Santos",
-          "points": "4.6878886222839355",
-          "assists": "2.0500872135162354",
-          "rebounds": "3.151624917984009"
+          "points": "6.239840984344482",
+          "assists": "2.0868937969207764",
+          "rebounds": "2.342778444290161"
         },
         {
           "player_name": "Garuba",
-          "points": "1.5005934238433838",
-          "assists": "0.525424599647522",
-          "rebounds": "1.829526424407959"
+          "points": "0.184382826089859",
+          "assists": "0.4622809886932373",
+          "rebounds": "0.4177284240722656"
         },
         {
           "player_name": "Johnson",
-          "points": "5.371293544769287",
-          "assists": "2.1893179416656494",
-          "rebounds": "0.9506482481956482"
+          "points": "2.8970704078674316",
+          "assists": "1.5110974311828613",
+          "rebounds": "1.0592031478881836"
         },
         {
           "player_name": "Gay",
-          "points": "2.6782631874084473",
-          "assists": "0.3126292824745178",
-          "rebounds": "1.3063852787017822"
+          "points": "0.10252553224563599",
+          "assists": "1.2302370071411133",
+          "rebounds": "0.1491924226284027"
         },
         {
           "player_name": "Davis",
-          "points": "1.6740800142288208",
-          "assists": "0.33571869134902954",
-          "rebounds": "2.4670231342315674"
+          "points": "1.1626118421554565",
+          "assists": "0.3405607044696808",
+          "rebounds": "0.6019895672798157"
         },
         {
           "player_name": "Williams",
-          "points": "3.7404727935791016",
-          "assists": "0.3927117884159088",
-          "rebounds": "2.45841646194458"
+          "points": "1.1419748067855835",
+          "assists": "1.558077335357666",
+          "rebounds": "0.8002346158027649"
         },
         {
           "player_name": "McGruder",
-          "points": "8.297577857971191",
-          "assists": "2.3557591438293457",
-          "rebounds": "3.2518043518066406"
-        }
-      ],
-      "12": [
-        {
-          "player_name": "George",
-          "points": "20.828439712524414",
-          "assists": "3.8360114097595215",
-          "rebounds": "5.103996753692627"
-        },
-        {
-          "player_name": "Zubac",
-          "points": "6.926440715789795",
-          "assists": "1.928446650505066",
-          "rebounds": "7.809938907623291"
-        },
-        {
-          "player_name": "Harden",
-          "points": "20.75446128845215",
-          "assists": "3.947669744491577",
-          "rebounds": "4.177241802215576"
-        },
-        {
-          "player_name": "Mann",
-          "points": "6.359968662261963",
-          "assists": "2.722989320755005",
-          "rebounds": "3.9223666191101074"
-        },
-        {
-          "player_name": "Coffey",
-          "points": "11.702836036682129",
-          "assists": "1.4114700555801392",
-          "rebounds": "2.5995304584503174"
-        },
-        {
-          "player_name": "Westbrook",
-          "points": "22.180156707763672",
-          "assists": "3.561696767807007",
-          "rebounds": "3.1458635330200195"
-        },
-        {
-          "player_name": "Hyland",
-          "points": "4.5209527015686035",
-          "assists": "0.39787325263023376",
-          "rebounds": "1.203500747680664"
-        },
-        {
-          "player_name": "Boston Jr.",
-          "points": "7.390928745269775",
-          "assists": "1.6509315967559814",
-          "rebounds": "1.644606351852417"
-        },
-        {
-          "player_name": "Powell",
-          "points": "5.786315441131592",
-          "assists": "3.5555713176727295",
-          "rebounds": "4.011520862579346"
-        },
-        {
-          "player_name": "Brown",
-          "points": "5.31607723236084",
-          "assists": "-0.03836103528738022",
-          "rebounds": "1.6082472801208496"
-        },
-        {
-          "player_name": "Leonard",
-          "points": "18.345300674438477",
-          "assists": "1.9178051948547363",
-          "rebounds": "5.073765277862549"
-        },
-        {
-          "player_name": "Tucker",
-          "points": "1.8383641242980957",
-          "assists": "0.059835173189640045",
-          "rebounds": "0.5419760346412659"
-        },
-        {
-          "player_name": "Plumlee",
-          "points": "1.8342479467391968",
-          "assists": "1.2075743675231934",
-          "rebounds": "4.234476566314697"
-        },
-        {
-          "player_name": "Diabate",
-          "points": "3.369251251220703",
-          "assists": "-0.06730269640684128",
-          "rebounds": "2.609708547592163"
-        },
-        {
-          "player_name": "Batum",
-          "points": "7.401119709014893",
-          "assists": "1.092482566833496",
-          "rebounds": "4.729401111602783"
-        },
-        {
-          "player_name": "Covington",
-          "points": "4.747036933898926",
-          "assists": "-0.31849443912506104",
-          "rebounds": "0.4966500401496887"
-        },
-        {
-          "player_name": "Williams",
-          "points": "4.985713958740234",
-          "assists": "1.3085417747497559",
-          "rebounds": "4.34788703918457"
-        },
-        {
-          "player_name": "Martin Jr.",
-          "points": "12.491172790527344",
-          "assists": "1.0450248718261719",
-          "rebounds": "8.292606353759766"
-        },
-        {
-          "player_name": "Moon",
-          "points": "3.014512062072754",
-          "assists": "1.7853938341140747",
-          "rebounds": "2.9905824661254883"
-        },
-        {
-          "player_name": "Miller",
-          "points": "4.63411808013916",
-          "assists": "0.059660233557224274",
-          "rebounds": "2.112553596496582"
-        },
-        {
-          "player_name": "Primo",
-          "points": "2.049884557723999",
-          "assists": "0.7468513250350952",
-          "rebounds": "0.4893643260002136"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585411",
-    "game_name": "Houston Rockets at Memphis Grizzlies",
-    "teams": {
-      "10": [
-        {
-          "player_name": "Smith Jr.",
-          "points": "18.068811416625977",
-          "assists": "3.7983834743499756",
-          "rebounds": "6.534117698669434"
-        },
-        {
-          "player_name": "Brooks",
-          "points": "18.179977416992188",
-          "assists": "2.7964229583740234",
-          "rebounds": "3.6442432403564453"
-        },
-        {
-          "player_name": "Sengun",
-          "points": "21.367673873901367",
-          "assists": "8.772942543029785",
-          "rebounds": "6.884899139404297"
-        },
-        {
-          "player_name": "VanVleet",
-          "points": "15.276238441467285",
-          "assists": "0.8905565142631531",
-          "rebounds": "2.661834239959717"
-        },
-        {
-          "player_name": "Ja. Green",
-          "points": "28.61628532409668",
-          "assists": "8.467387199401855",
-          "rebounds": "7.543578147888184"
-        },
-        {
-          "player_name": "Je. Green",
-          "points": "13.623971939086914",
-          "assists": "1.551693081855774",
-          "rebounds": "4.515356063842773"
-        },
-        {
-          "player_name": "Thompson",
-          "points": "4.6152024269104",
-          "assists": "4.381906032562256",
-          "rebounds": "7.270136833190918"
-        },
-        {
-          "player_name": "Tate",
-          "points": "9.337536811828613",
-          "assists": "2.9142556190490723",
-          "rebounds": "2.508540391921997"
-        },
-        {
-          "player_name": "Holiday",
-          "points": "16.82969856262207",
-          "assists": "5.255457878112793",
-          "rebounds": "6.838241100311279"
-        },
-        {
-          "player_name": "Samuels",
-          "points": "1.2510945796966553",
-          "assists": "0.46348243951797485",
-          "rebounds": "0.3041634261608124"
-        },
-        {
-          "player_name": "Days",
-          "points": "5.005199909210205",
-          "assists": "1.0631407499313354",
-          "rebounds": "1.8939895629882812"
-        },
-        {
-          "player_name": "Eason",
-          "points": "11.535082817077637",
-          "assists": "3.5314691066741943",
-          "rebounds": "3.0811619758605957"
-        },
-        {
-          "player_name": "Whitmore",
-          "points": "17.809019088745117",
-          "assists": "2.279752731323242",
-          "rebounds": "4.96599817276001"
-        },
-        {
-          "player_name": "Bullock",
-          "points": "11.355813026428223",
-          "assists": "2.5902531147003174",
-          "rebounds": "3.113140821456909"
-        },
-        {
-          "player_name": "Marjanovic",
-          "points": "3.265674114227295",
-          "assists": "0.6483400464057922",
-          "rebounds": "3.6694695949554443"
-        },
-        {
-          "player_name": "Hinton",
-          "points": "2.8020622730255127",
-          "assists": "1.7709705829620361",
-          "rebounds": "2.515867233276367"
-        },
-        {
-          "player_name": "Williams",
-          "points": "8.627041816711426",
-          "assists": "1.2075557708740234",
-          "rebounds": "2.0782718658447266"
-        },
-        {
-          "player_name": "Hudgins",
-          "points": "7.30460262298584",
-          "assists": "0.32701635360717773",
-          "rebounds": "2.363518476486206"
-        },
-        {
-          "player_name": "Landale",
-          "points": "3.6841585636138916",
-          "assists": "1.0196741819381714",
-          "rebounds": "5.12355375289917"
-        },
-        {
-          "player_name": "Mayer",
-          "points": "1.9151108264923096",
-          "assists": "1.6584913730621338",
-          "rebounds": "0.24597454071044922"
-        }
-      ],
-      "29": [
-        {
-          "player_name": "Aldama",
-          "points": "15.514019012451172",
-          "assists": "2.657339334487915",
-          "rebounds": "7.701469898223877"
-        },
-        {
-          "player_name": "Z. Williams",
-          "points": "7.747195243835449",
-          "assists": "0.556581437587738",
-          "rebounds": "0.8399239182472229"
-        },
-        {
-          "player_name": "Roddy",
-          "points": "2.1446595191955566",
-          "assists": "0.08891574293375015",
-          "rebounds": "2.188938617706299"
-        },
-        {
-          "player_name": "Adams",
-          "points": "4.280282020568848",
-          "assists": "0.5293579697608948",
-          "rebounds": "3.110124111175537"
-        },
-        {
-          "player_name": "Gilyard",
-          "points": "4.506402969360352",
-          "assists": "-0.25701287388801575",
-          "rebounds": "1.0315418243408203"
-        },
-        {
-          "player_name": "Hurt",
-          "points": "19.717008590698242",
-          "assists": "2.3898816108703613",
-          "rebounds": "4.433294773101807"
-        },
-        {
-          "player_name": "GG Jackson",
-          "points": "-0.20872244238853455",
-          "assists": "0.09232700616121292",
-          "rebounds": "0.8998979926109314"
-        },
-        {
-          "player_name": "Harrison",
-          "points": "-0.2587692439556122",
-          "assists": "0.3734012246131897",
-          "rebounds": "0.7110235095024109"
-        },
-        {
-          "player_name": "Mulder",
-          "points": "2.212507724761963",
-          "assists": "0.22583948075771332",
-          "rebounds": "0.3174743056297302"
-        },
-        {
-          "player_name": "V. Williams Jr.",
-          "points": "24.060077667236328",
-          "assists": "7.441379547119141",
-          "rebounds": "3.6305878162384033"
-        },
-        {
-          "player_name": "J. Jackson Jr.",
-          "points": "25.363235473632812",
-          "assists": "3.884422540664673",
-          "rebounds": "4.241720676422119"
-        },
-        {
-          "player_name": "Biyombo",
-          "points": "3.625659942626953",
-          "assists": "0.8185378313064575",
-          "rebounds": "2.0226845741271973"
-        },
-        {
-          "player_name": "Morant",
-          "points": "19.290376663208008",
-          "assists": "1.9599090814590454",
-          "rebounds": "7.758963108062744"
-        },
-        {
-          "player_name": "Bane",
-          "points": "17.88749122619629",
-          "assists": "3.3545873165130615",
-          "rebounds": "3.7444088459014893"
-        },
-        {
-          "player_name": "Tillman",
-          "points": "7.330233573913574",
-          "assists": "1.3085628747940063",
-          "rebounds": "9.346761703491211"
-        },
-        {
-          "player_name": "Konchar",
-          "points": "3.8630285263061523",
-          "assists": "0.6176938414573669",
-          "rebounds": "3.368011474609375"
-        },
-        {
-          "player_name": "Smart",
-          "points": "9.975447654724121",
-          "assists": "1.9522675275802612",
-          "rebounds": "0.4348686933517456"
-        },
-        {
-          "player_name": "LaRavia",
-          "points": "3.8892555236816406",
-          "assists": "0.5985295176506042",
-          "rebounds": "0.6394597887992859"
-        },
-        {
-          "player_name": "Rose",
-          "points": "6.842684268951416",
-          "assists": "0.31498539447784424",
-          "rebounds": "-0.04080778360366821"
-        },
-        {
-          "player_name": "Kennard",
-          "points": "5.94204044342041",
-          "assists": "0.5151822566986084",
-          "rebounds": "2.532137393951416"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585410",
-    "game_name": "Indiana Pacers at Toronto Raptors",
-    "teams": {
-      "11": [
-        {
-          "player_name": "Toppin",
-          "points": "5.253702640533447",
-          "assists": "1.3259423971176147",
-          "rebounds": "3.232863426208496"
-        },
-        {
-          "player_name": "B. Brown",
-          "points": "6.541749477386475",
-          "assists": "2.4682185649871826",
-          "rebounds": "6.111679553985596"
-        },
-        {
-          "player_name": "Turner",
-          "points": "9.816381454467773",
-          "assists": "2.9610044956207275",
-          "rebounds": "4.326935291290283"
-        },
-        {
-          "player_name": "Haliburton",
-          "points": "21.55915069580078",
-          "assists": "9.499456405639648",
-          "rebounds": "7.594540596008301"
-        },
-        {
-          "player_name": "Mathurin",
-          "points": "10.14433765411377",
-          "assists": "3.473865509033203",
-          "rebounds": "1.1457479000091553"
-        },
-        {
-          "player_name": "Smith",
-          "points": "4.595774173736572",
-          "assists": "0.319320946931839",
-          "rebounds": "1.5500514507293701"
-        },
-        {
-          "player_name": "Walker",
-          "points": "3.810901403427124",
-          "assists": "0.31835341453552246",
-          "rebounds": "1.4310886859893799"
-        },
-        {
-          "player_name": "Nwora",
-          "points": "1.7203893661499023",
-          "assists": "2.984408378601074",
-          "rebounds": "1.0471644401550293"
-        },
-        {
-          "player_name": "Nesmith",
-          "points": "11.68652057647705",
-          "assists": "2.3083972930908203",
-          "rebounds": "2.5356531143188477"
-        },
-        {
-          "player_name": "Jackson",
-          "points": "4.859522342681885",
-          "assists": "4.6920166015625",
-          "rebounds": "6.282068729400635"
-        },
-        {
-          "player_name": "McConnell",
-          "points": "12.066546440124512",
-          "assists": "4.350851058959961",
-          "rebounds": "5.10379695892334"
-        },
-        {
-          "player_name": "Hield",
-          "points": "18.87890625",
-          "assists": "6.022889614105225",
-          "rebounds": "6.538388729095459"
-        },
-        {
-          "player_name": "Wong",
-          "points": "3.7243804931640625",
-          "assists": "0.8460160493850708",
-          "rebounds": "3.4262876510620117"
-        },
-        {
-          "player_name": "Sheppard",
-          "points": "4.397887706756592",
-          "assists": "1.0199658870697021",
-          "rebounds": "3.6969761848449707"
-        },
-        {
-          "player_name": "Johnson",
-          "points": "3.565904378890991",
-          "assists": "0.9308444857597351",
-          "rebounds": "3.2852964401245117"
-        },
-        {
-          "player_name": "Nembhard",
-          "points": "10.638869285583496",
-          "assists": "7.915371417999268",
-          "rebounds": "2.3022260665893555"
-        },
-        {
-          "player_name": "Tshiebwe",
-          "points": "3.099414825439453",
-          "assists": "0.6559001803398132",
-          "rebounds": "5.442556858062744"
-        },
-        {
-          "player_name": "K. Brown",
-          "points": "4.016453742980957",
-          "assists": "1.319631576538086",
-          "rebounds": "3.955343723297119"
-        },
-        {
-          "player_name": "Theis",
-          "points": "2.4641356468200684",
-          "assists": "1.885038137435913",
-          "rebounds": "1.8401851654052734"
-        },
-        {
-          "player_name": "Siakam",
-          "points": "13.661438941955566",
-          "assists": "5.233736991882324",
-          "rebounds": "5.115814685821533"
-        },
-        {
-          "player_name": "McDermott",
-          "points": "6.977923393249512",
-          "assists": "2.4834811687469482",
-          "rebounds": "1.3067076206207275"
-        }
-      ],
-      "28": [
-        {
-          "player_name": "Barnes",
-          "points": "9.445746421813965",
-          "assists": "3.663450241088867",
-          "rebounds": "7.530362606048584"
-        },
-        {
-          "player_name": "Poeltl",
-          "points": "10.102585792541504",
-          "assists": "2.5391695499420166",
-          "rebounds": "7.42271614074707"
-        },
-        {
-          "player_name": "Boucher",
-          "points": "1.9614312648773193",
-          "assists": "0.4578096270561218",
-          "rebounds": "1.1402034759521484"
-        },
-        {
-          "player_name": "Trent Jr.",
-          "points": "13.309525489807129",
-          "assists": "2.09214186668396",
-          "rebounds": "3.2223939895629883"
-        },
-        {
-          "player_name": "Young",
-          "points": "4.495965003967285",
-          "assists": "0.3594663441181183",
-          "rebounds": "2.9121296405792236"
-        },
-        {
-          "player_name": "McDaniels",
-          "points": "5.839311122894287",
-          "assists": "2.360366106033325",
-          "rebounds": "2.0884294509887695"
-        },
-        {
-          "player_name": "Temple",
-          "points": "3.5246567726135254",
-          "assists": "1.22652268409729",
-          "rebounds": "2.4712185859680176"
-        },
-        {
-          "player_name": "Dick",
-          "points": "12.564736366271973",
-          "assists": "1.2790716886520386",
-          "rebounds": "3.7213029861450195"
-        },
-        {
-          "player_name": "Porter Jr.",
-          "points": "3.3868942260742188",
-          "assists": "0.4748205244541168",
-          "rebounds": "3.149162769317627"
-        },
-        {
-          "player_name": "Gueye",
-          "points": "3.317089557647705",
-          "assists": "-0.41156959533691406",
-          "rebounds": "3.1964681148529053"
-        },
-        {
-          "player_name": "Freeman-Liberty",
-          "points": "4.847315311431885",
-          "assists": "0.1114766076207161",
-          "rebounds": "3.6407313346862793"
-        },
-        {
-          "player_name": "Harper Jr.",
-          "points": "2.2983360290527344",
-          "assists": "-0.25372448563575745",
-          "rebounds": "0.966672956943512"
-        },
-        {
-          "player_name": "Nowell",
-          "points": "2.6883139610290527",
-          "assists": "0.9738015532493591",
-          "rebounds": "2.981628179550171"
-        },
-        {
-          "player_name": "Maker",
-          "points": "7.475039958953857",
-          "assists": "1.0643064975738525",
-          "rebounds": "1.8072450160980225"
-        },
-        {
-          "player_name": "Dowtin Jr.",
-          "points": "3.7469472885131836",
-          "assists": "2.259084463119507",
-          "rebounds": "2.0616133213043213"
-        }
-      ]
-    }
-  },
-  {
-    "game_id": "401585416",
-    "game_name": "Los Angeles Lakers at Utah Jazz",
-    "teams": {
-      "13": [
-        {
-          "player_name": "Davis",
-          "points": "25.03358268737793",
-          "assists": "0.5318304300308228",
-          "rebounds": "11.961088180541992"
-        },
-        {
-          "player_name": "Prince",
-          "points": "12.08951187133789",
-          "assists": "1.0857198238372803",
-          "rebounds": "2.350123882293701"
-        },
-        {
-          "player_name": "Vanderbilt",
-          "points": "8.932055473327637",
-          "assists": "2.8391849994659424",
-          "rebounds": "5.540905475616455"
-        },
-        {
-          "player_name": "James",
-          "points": "19.504087448120117",
-          "assists": "6.731548309326172",
-          "rebounds": "1.2062506675720215"
-        },
-        {
-          "player_name": "Reddish",
-          "points": "3.9713187217712402",
-          "assists": "1.089617133140564",
-          "rebounds": "2.5279886722564697"
-        },
-        {
-          "player_name": "Hachimura",
-          "points": "12.370396614074707",
-          "assists": "1.0647627115249634",
-          "rebounds": "5.388973712921143"
-        },
-        {
-          "player_name": "Hayes",
-          "points": "10.384000778198242",
-          "assists": "5.904725074768066",
-          "rebounds": "3.931736469268799"
-        },
-        {
-          "player_name": "Russell",
-          "points": "14.267930030822754",
-          "assists": "1.5542912483215332",
-          "rebounds": "1.4765739440917969"
-        },
-        {
-          "player_name": "Reaves",
-          "points": "21.86322593688965",
-          "assists": "5.845235824584961",
-          "rebounds": "7.703785419464111"
-        },
-        {
-          "player_name": "Wood",
-          "points": "4.264907360076904",
-          "assists": "0.7056857347488403",
-          "rebounds": "5.271032333374023"
-        },
-        {
-          "player_name": "Lewis",
-          "points": "2.105180501937866",
-          "assists": "0.23671217262744904",
-          "rebounds": "1.2883038520812988"
-        },
-        {
-          "player_name": "Christie",
-          "points": "6.862668514251709",
-          "assists": "1.522905945777893",
-          "rebounds": "2.476633071899414"
-        },
-        {
-          "player_name": "Hood-Schifino",
-          "points": "2.7066969871520996",
-          "assists": "2.277585983276367",
-          "rebounds": "4.112612247467041"
-        },
-        {
-          "player_name": "Vincent",
-          "points": "1.7946925163269043",
-          "assists": "2.2156500816345215",
-          "rebounds": "1.6471233367919922"
-        },
-        {
-          "player_name": "Fudge",
-          "points": "3.6871252059936523",
-          "assists": "0.3136157691478729",
-          "rebounds": "1.0803096294403076"
-        },
-        {
-          "player_name": "Hodge",
-          "points": "3.2038283348083496",
-          "assists": "1.2837902307510376",
-          "rebounds": "1.7207717895507812"
-        },
-        {
-          "player_name": "Castleton",
-          "points": "7.1889848709106445",
-          "assists": "0.04220069199800491",
-          "rebounds": "3.494961738586426"
-        },
-        {
-          "player_name": "Pippen Jr.",
-          "points": "6.036365032196045",
-          "assists": "3.785896062850952",
-          "rebounds": "1.9182276725769043"
-        },
-        {
-          "player_name": "Valerio-Bodon",
-          "points": "4.764058589935303",
-          "assists": "1.8633556365966797",
-          "rebounds": "2.8843963146209717"
-        },
-        {
-          "player_name": "Baugh",
-          "points": "4.989285945892334",
-          "assists": "1.4301531314849854",
-          "rebounds": "2.9099323749542236"
-        },
-        {
-          "player_name": "Mays",
-          "points": "3.7242727279663086",
-          "assists": "1.2147458791732788",
-          "rebounds": "3.1105384826660156"
-        },
-        {
-          "player_name": "Windler",
-          "points": "0.9781395196914673",
-          "assists": "0.17751474678516388",
-          "rebounds": "0.2959156930446625"
-        },
-        {
-          "player_name": "Dinwiddie",
-          "points": "11.074248313903809",
-          "assists": "4.527963638305664",
-          "rebounds": "1.3533802032470703"
+          "points": "5.781708717346191",
+          "assists": "1.3906878232955933",
+          "rebounds": "3.517758369445801"
         }
       ],
       "26": [
         {
           "player_name": "Collins",
-          "points": "11.232328414916992",
-          "assists": "7.377753257751465",
-          "rebounds": "3.812514543533325"
+          "points": "9.804093360900879",
+          "assists": "0.04677463322877884",
+          "rebounds": "6.322664737701416"
         },
         {
           "player_name": "Markkanen",
-          "points": "18.842639923095703",
-          "assists": "2.1851818561553955",
-          "rebounds": "2.5198047161102295"
+          "points": "17.15761375427246",
+          "assists": "2.5258612632751465",
+          "rebounds": "6.5418009757995605"
+        },
+        {
+          "player_name": "Fontecchio",
+          "points": "13.94572639465332",
+          "assists": "3.8297295570373535",
+          "rebounds": "3.820068597793579"
         },
         {
           "player_name": "Sexton",
-          "points": "16.67530632019043",
-          "assists": "6.5816240310668945",
-          "rebounds": "4.39736270904541"
+          "points": "15.311843872070312",
+          "assists": "1.6836892366409302",
+          "rebounds": "5.049447536468506"
         },
         {
           "player_name": "Dunn",
-          "points": "7.070065975189209",
-          "assists": "2.1413841247558594",
-          "rebounds": "1.4278616905212402"
+          "points": "9.98785400390625",
+          "assists": "1.461911916732788",
+          "rebounds": "2.9980528354644775"
         },
         {
           "player_name": "Olynyk",
-          "points": "16.906225204467773",
-          "assists": "3.410331964492798",
-          "rebounds": "1.767129898071289"
+          "points": "0.7316015958786011",
+          "assists": "0.3178485631942749",
+          "rebounds": "0.10383754968643188"
         },
         {
           "player_name": "Samanic",
-          "points": "-0.882951021194458",
-          "assists": "0.3614826202392578",
-          "rebounds": "1.8273403644561768"
+          "points": "5.37733793258667",
+          "assists": "1.082089900970459",
+          "rebounds": "0.6632569432258606"
         },
         {
           "player_name": "Yurtseven",
-          "points": "5.373564720153809",
-          "assists": "1.3512966632843018",
-          "rebounds": "2.4169483184814453"
+          "points": "5.934856414794922",
+          "assists": "0.3025449514389038",
+          "rebounds": "2.1549177169799805"
         },
         {
           "player_name": "Kessler",
-          "points": "11.464407920837402",
-          "assists": "0.06736362725496292",
-          "rebounds": "9.240750312805176"
+          "points": "12.740525245666504",
+          "assists": "1.2439409494400024",
+          "rebounds": "6.087078094482422"
         },
         {
           "player_name": "Clarkson",
-          "points": "18.044702529907227",
-          "assists": "1.1111176013946533",
-          "rebounds": "4.408209323883057"
+          "points": "12.56988525390625",
+          "assists": "3.450721502304077",
+          "rebounds": "3.5016045570373535"
         },
         {
           "player_name": "Horton-Tucker",
-          "points": "9.746796607971191",
-          "assists": "5.271557807922363",
-          "rebounds": "3.1211252212524414"
+          "points": "14.032989501953125",
+          "assists": "1.8002175092697144",
+          "rebounds": "2.5721640586853027"
         },
         {
           "player_name": "Agbaji",
-          "points": "6.1860527992248535",
-          "assists": "2.141326665878296",
-          "rebounds": "3.4132132530212402"
+          "points": "-1.1881132125854492",
+          "assists": "1.6475627422332764",
+          "rebounds": "1.7722697257995605"
         },
         {
           "player_name": "George",
-          "points": "10.219402313232422",
-          "assists": "3.7605082988739014",
-          "rebounds": "2.754570722579956"
+          "points": "5.3251729011535645",
+          "assists": "3.2671031951904297",
+          "rebounds": "3.9075655937194824"
         },
         {
           "player_name": "Hendricks",
-          "points": "2.684563159942627",
-          "assists": "-0.06044252961874008",
-          "rebounds": "3.6458184719085693"
+          "points": "7.9673027992248535",
+          "assists": "0.5276838541030884",
+          "rebounds": "2.806452512741089"
         },
         {
           "player_name": "Sensabaugh",
-          "points": "0.162940114736557",
-          "assists": "0.299013614654541",
-          "rebounds": "0.8265683054924011"
+          "points": "3.806689739227295",
+          "assists": "0.2680097818374634",
+          "rebounds": "1.4404795169830322"
         },
         {
           "player_name": "Potter",
-          "points": "3.683290958404541",
-          "assists": "0.592693567276001",
-          "rebounds": "0.39846986532211304"
+          "points": "2.3863563537597656",
+          "assists": "1.084625482559204",
+          "rebounds": "2.165393590927124"
         },
         {
           "player_name": "Juzang",
-          "points": "7.037038803100586",
-          "assists": "-0.6555153727531433",
-          "rebounds": "0.517251193523407"
+          "points": "3.86836576461792",
+          "assists": "2.7212398052215576",
+          "rebounds": "4.354000091552734"
         },
         {
           "player_name": "Langford",
-          "points": "4.735870838165283",
-          "assists": "3.7875638008117676",
-          "rebounds": "0.5430764555931091"
+          "points": "2.253579616546631",
+          "assists": "0.3417622447013855",
+          "rebounds": "0.49684005975723267"
         },
         {
           "player_name": "Christopher",
-          "points": "6.287501811981201",
-          "assists": "0.17090420424938202",
-          "rebounds": "3.074645757675171"
+          "points": "3.1102166175842285",
+          "assists": "1.1849284172058105",
+          "rebounds": "3.6728830337524414"
         },
         {
           "player_name": "Preston",
-          "points": "2.239166498184204",
-          "assists": "0.17299160361289978",
-          "rebounds": "0.3040577471256256"
+          "points": "4.4061198234558105",
+          "assists": "1.6102341413497925",
+          "rebounds": "2.216184616088867"
+        },
+        {
+          "player_name": "Lewis Jr.",
+          "points": "2.9906818866729736",
+          "assists": "4.319987773895264",
+          "rebounds": "1.9284582138061523"
         }
       ]
     }
   },
   {
-    "game_id": "401585407",
-    "game_name": "Miami Heat at Philadelphia 76ers",
+    "game_id": "401585418",
+    "game_name": "Milwaukee Bucks at Memphis Grizzlies",
     "teams": {
-      "14": [
+      "15": [
         {
-          "player_name": "D. Robinson",
-          "points": "16.924360275268555",
-          "assists": "7.063647270202637",
-          "rebounds": "5.8686842918396"
+          "player_name": "Crowder",
+          "points": "2.886155843734741",
+          "assists": "0.2804514169692993",
+          "rebounds": "4.2138776779174805"
         },
         {
-          "player_name": "Highsmith",
-          "points": "6.164676189422607",
-          "assists": "0.4534496068954468",
-          "rebounds": "5.6175150871276855"
+          "player_name": "G. Antetokounmpo",
+          "points": "25.940473556518555",
+          "assists": "4.379110336303711",
+          "rebounds": "6.467147350311279"
         },
         {
-          "player_name": "Adebayo",
-          "points": "21.20952033996582",
-          "assists": "5.62576961517334",
-          "rebounds": "9.783620834350586"
+          "player_name": "B. Lopez",
+          "points": "14.73001766204834",
+          "assists": "1.3992021083831787",
+          "rebounds": "0.844784677028656"
         },
         {
-          "player_name": "Lowry",
-          "points": "6.103952407836914",
-          "assists": "4.382845878601074",
-          "rebounds": "3.9755330085754395"
+          "player_name": "Lillard",
+          "points": "14.30262279510498",
+          "assists": "2.6386654376983643",
+          "rebounds": "1.4355709552764893"
         },
         {
-          "player_name": "Jaquez Jr.",
-          "points": "19.304311752319336",
-          "assists": "1.6988674402236938",
-          "rebounds": "5.507021903991699"
+          "player_name": "Beasley",
+          "points": "12.566308975219727",
+          "assists": "1.1638846397399902",
+          "rebounds": "0.8534262776374817"
         },
         {
-          "player_name": "Love",
-          "points": "10.79645824432373",
-          "assists": "0.9258682727813721",
-          "rebounds": "5.54372501373291"
+          "player_name": "Portis",
+          "points": "14.442187309265137",
+          "assists": "2.767388105392456",
+          "rebounds": "1.7639806270599365"
         },
         {
-          "player_name": "Richardson",
-          "points": "2.0781147480010986",
-          "assists": "0.8020395040512085",
-          "rebounds": "2.3953511714935303"
+          "player_name": "Beauchamp",
+          "points": "6.0962114334106445",
+          "assists": "1.856796145439148",
+          "rebounds": "0.33040088415145874"
         },
         {
-          "player_name": "Smith",
-          "points": "1.6581205129623413",
-          "assists": "0.2239091545343399",
-          "rebounds": "2.057313919067383"
+          "player_name": "T. Antetokounmpo",
+          "points": "5.389951705932617",
+          "assists": "0.216739222407341",
+          "rebounds": "1.9388995170593262"
         },
         {
-          "player_name": "Martin",
-          "points": "4.969166278839111",
-          "assists": "1.279700756072998",
-          "rebounds": "1.1100013256072998"
-        },
-        {
-          "player_name": "Herro",
-          "points": "24.077476501464844",
-          "assists": "3.084624767303467",
-          "rebounds": "6.037708759307861"
-        },
-        {
-          "player_name": "Butler",
-          "points": "26.412450790405273",
-          "assists": "8.685569763183594",
-          "rebounds": "11.10052490234375"
-        },
-        {
-          "player_name": "Cain",
-          "points": "0.8044818639755249",
-          "assists": "1.6608809232711792",
-          "rebounds": "0.8966689705848694"
-        },
-        {
-          "player_name": "Bryant",
-          "points": "2.2447285652160645",
-          "assists": "0.48169803619384766",
-          "rebounds": "0.8540129065513611"
-        },
-        {
-          "player_name": "O. Robinson",
-          "points": "1.5849642753601074",
-          "assists": "-0.28932875394821167",
-          "rebounds": "4.161200523376465"
-        },
-        {
-          "player_name": "Hampton",
-          "points": "3.5863406658172607",
-          "assists": "0.8028950691223145",
-          "rebounds": "1.0523817539215088"
-        },
-        {
-          "player_name": "Swider",
-          "points": "6.717824459075928",
-          "assists": "3.9953806400299072",
-          "rebounds": "0.595332682132721"
-        },
-        {
-          "player_name": "Jovic",
-          "points": "17.525941848754883",
-          "assists": "1.045884609222412",
-          "rebounds": "7.329555988311768"
-        },
-        {
-          "player_name": "Diallo",
-          "points": "4.290096759796143",
-          "assists": "0.8698387145996094",
-          "rebounds": "2.590205192565918"
-        },
-        {
-          "player_name": "Champagnie",
-          "points": "17.345985412597656",
-          "assists": "1.0884658098220825",
-          "rebounds": "4.873807430267334"
-        },
-        {
-          "player_name": "Williams",
-          "points": "2.9367010593414307",
-          "assists": "0.6010233759880066",
-          "rebounds": "0.10058066248893738"
-        },
-        {
-          "player_name": "Rozier",
-          "points": "20.408803939819336",
-          "assists": "2.838665723800659",
-          "rebounds": "6.03084135055542"
-        }
-      ],
-      "20": [
-        {
-          "player_name": "Harris",
-          "points": "20.423364639282227",
-          "assists": "3.102252244949341",
-          "rebounds": "5.99177885055542"
-        },
-        {
-          "player_name": "Embiid",
-          "points": "24.6748104095459",
-          "assists": "5.047545433044434",
-          "rebounds": "5.234584808349609"
-        },
-        {
-          "player_name": "Maxey",
-          "points": "21.916790008544922",
-          "assists": "5.547153472900391",
-          "rebounds": "4.633054256439209"
-        },
-        {
-          "player_name": "Melton",
-          "points": "4.6983418464660645",
-          "assists": "1.2903441190719604",
-          "rebounds": "2.6659600734710693"
-        },
-        {
-          "player_name": "Green",
-          "points": "5.966545581817627",
-          "assists": "1.701553463935852",
-          "rebounds": "2.0683650970458984"
-        },
-        {
-          "player_name": "House Jr.",
-          "points": "10.449324607849121",
-          "assists": "-0.5032714009284973",
-          "rebounds": "6.975572109222412"
-        },
-        {
-          "player_name": "Reed",
-          "points": "10.996703147888184",
-          "assists": "0.6641887426376343",
-          "rebounds": "8.855257034301758"
-        },
-        {
-          "player_name": "Beverley",
-          "points": "7.532683372497559",
-          "assists": "1.279928207397461",
-          "rebounds": "1.68650484085083"
-        },
-        {
-          "player_name": "Oubre Jr.",
-          "points": "23.701061248779297",
-          "assists": "5.768516540527344",
-          "rebounds": "5.277925968170166"
-        },
-        {
-          "player_name": "Korkmaz",
-          "points": "5.373589038848877",
-          "assists": "1.6061733961105347",
-          "rebounds": "2.9602766036987305"
-        },
-        {
-          "player_name": "Smart",
-          "points": "2.959170341491699",
-          "assists": "1.000945806503296",
-          "rebounds": "0.6864532828330994"
-        },
-        {
-          "player_name": "Springer",
-          "points": "6.428290843963623",
-          "assists": "1.6243517398834229",
-          "rebounds": "5.498986721038818"
-        },
-        {
-          "player_name": "Morris Sr.",
-          "points": "16.100265502929688",
-          "assists": "2.5064632892608643",
-          "rebounds": "5.557494163513184"
-        },
-        {
-          "player_name": "Bamba",
-          "points": "9.293160438537598",
-          "assists": "1.2621430158615112",
-          "rebounds": "6.930185794830322"
-        },
-        {
-          "player_name": "Petrusev",
-          "points": "5.255319595336914",
-          "assists": "0.04964647442102432",
-          "rebounds": "0.9821454882621765"
-        },
-        {
-          "player_name": "Duke Jr.",
-          "points": "1.9230108261108398",
-          "assists": "2.018336534500122",
-          "rebounds": "2.481595993041992"
-        },
-        {
-          "player_name": "Smith",
-          "points": "7.66090726852417",
-          "assists": "0.7825034856796265",
-          "rebounds": "0.8545935750007629"
-        },
-        {
-          "player_name": "Council IV",
-          "points": "10.065589904785156",
-          "assists": "1.1296398639678955",
-          "rebounds": "6.586721897125244"
-        },
-        {
-          "player_name": "Lofton Jr.",
-          "points": "8.738778114318848",
-          "assists": "1.4745135307312012",
-          "rebounds": "1.1874890327453613"
+          "player_name": "R. Lopez",
+          "points": "3.5669007301330566",
+          "assists": "1.6470597982406616",
+          "rebounds": "3.850508689880371"
         },
         {
           "player_name": "Payne",
-          "points": "12.348763465881348",
-          "assists": "1.1531212329864502",
-          "rebounds": "2.3516268730163574"
+          "points": "6.308593273162842",
+          "assists": "2.0821306705474854",
+          "rebounds": "0.8810892105102539"
+        },
+        {
+          "player_name": "Connaughton",
+          "points": "5.7508625984191895",
+          "assists": "1.6836658716201782",
+          "rebounds": "4.824128150939941"
+        },
+        {
+          "player_name": "Green",
+          "points": "2.4608852863311768",
+          "assists": "0.27972087264060974",
+          "rebounds": "0.06205695867538452"
+        },
+        {
+          "player_name": "Jackson Jr.",
+          "points": "4.757172107696533",
+          "assists": "1.2027218341827393",
+          "rebounds": "3.2919633388519287"
+        },
+        {
+          "player_name": "Washington Jr.",
+          "points": "3.0761499404907227",
+          "assists": "1.26564359664917",
+          "rebounds": "2.3055241107940674"
+        },
+        {
+          "player_name": "Middleton",
+          "points": "2.9872806072235107",
+          "assists": "0.9800775051116943",
+          "rebounds": "0.5135199427604675"
+        },
+        {
+          "player_name": "Livingston",
+          "points": "3.207307815551758",
+          "assists": "4.06348991394043",
+          "rebounds": "3.607804298400879"
+        },
+        {
+          "player_name": "Wigginton",
+          "points": "4.045550346374512",
+          "assists": "1.467179298400879",
+          "rebounds": "0.1578543782234192"
+        },
+        {
+          "player_name": "Timme",
+          "points": "1.0914254188537598",
+          "assists": "0.8588591814041138",
+          "rebounds": "0.8696253895759583"
+        },
+        {
+          "player_name": "Bolden",
+          "points": "1.6433329582214355",
+          "assists": "4.141111850738525",
+          "rebounds": "1.5182209014892578"
+        },
+        {
+          "player_name": "Moore",
+          "points": "2.453050374984741",
+          "assists": "1.9846994876861572",
+          "rebounds": "2.882007122039795"
+        },
+        {
+          "player_name": "Gortman",
+          "points": "7.117318630218506",
+          "assists": "1.009474277496338",
+          "rebounds": "1.1638498306274414"
+        },
+        {
+          "player_name": "Beverley",
+          "points": "1.2979954481124878",
+          "assists": "2.729130506515503",
+          "rebounds": "0.19354861974716187"
+        }
+      ],
+      "29": [
+        {
+          "player_name": "Aldama",
+          "points": "11.749483108520508",
+          "assists": "2.5640008449554443",
+          "rebounds": "2.681879997253418"
+        },
+        {
+          "player_name": "Z. Williams",
+          "points": "8.12730884552002",
+          "assists": "3.699514627456665",
+          "rebounds": "3.6697397232055664"
+        },
+        {
+          "player_name": "Roddy",
+          "points": "8.964522361755371",
+          "assists": "-0.11379928141832352",
+          "rebounds": "1.7324473857879639"
+        },
+        {
+          "player_name": "Adams",
+          "points": "12.712366104125977",
+          "assists": "3.3286685943603516",
+          "rebounds": "2.540055274963379"
+        },
+        {
+          "player_name": "Gilyard",
+          "points": "5.984981060028076",
+          "assists": "3.0038325786590576",
+          "rebounds": "2.922305107116699"
+        },
+        {
+          "player_name": "Hurt",
+          "points": "11.708776473999023",
+          "assists": "4.2493672370910645",
+          "rebounds": "2.524980306625366"
+        },
+        {
+          "player_name": "Lofton Jr.",
+          "points": "4.673412799835205",
+          "assists": "1.493374228477478",
+          "rebounds": "2.569148540496826"
+        },
+        {
+          "player_name": "GG Jackson",
+          "points": "17.940065383911133",
+          "assists": "3.313364267349243",
+          "rebounds": "4.652565002441406"
+        },
+        {
+          "player_name": "Harrison",
+          "points": "4.635491847991943",
+          "assists": "0.6910722255706787",
+          "rebounds": "1.6363511085510254"
+        },
+        {
+          "player_name": "Mulder",
+          "points": "2.679577112197876",
+          "assists": "2.307265043258667",
+          "rebounds": "1.5173981189727783"
+        },
+        {
+          "player_name": "V. Williams Jr.",
+          "points": "18.6382999420166",
+          "assists": "6.101011276245117",
+          "rebounds": "7.865072250366211"
+        },
+        {
+          "player_name": "J. Jackson Jr.",
+          "points": "19.823265075683594",
+          "assists": "4.567755222320557",
+          "rebounds": "4.822839260101318"
+        },
+        {
+          "player_name": "Biyombo",
+          "points": "8.704686164855957",
+          "assists": "4.093048095703125",
+          "rebounds": "1.2784709930419922"
+        },
+        {
+          "player_name": "Morant",
+          "points": "19.902711868286133",
+          "assists": "6.41243839263916",
+          "rebounds": "4.885857105255127"
+        },
+        {
+          "player_name": "Bane",
+          "points": "10.623918533325195",
+          "assists": "5.107893943786621",
+          "rebounds": "2.2316575050354004"
+        },
+        {
+          "player_name": "Tillman",
+          "points": "10.732071876525879",
+          "assists": "4.461282730102539",
+          "rebounds": "2.8579013347625732"
+        },
+        {
+          "player_name": "Konchar",
+          "points": "11.763171195983887",
+          "assists": "2.8666622638702393",
+          "rebounds": "4.91945743560791"
+        },
+        {
+          "player_name": "Smart",
+          "points": "19.117895126342773",
+          "assists": "4.322912216186523",
+          "rebounds": "5.6473002433776855"
+        },
+        {
+          "player_name": "LaRavia",
+          "points": "5.79773473739624",
+          "assists": "0.8295192718505859",
+          "rebounds": "1.852041482925415"
+        },
+        {
+          "player_name": "Rose",
+          "points": "12.547341346740723",
+          "assists": "5.463266372680664",
+          "rebounds": "3.9292774200439453"
+        },
+        {
+          "player_name": "Kennard",
+          "points": "14.773641586303711",
+          "assists": "4.25319766998291",
+          "rebounds": "5.419273853302002"
+        },
+        {
+          "player_name": "Nowell",
+          "points": "4.018592834472656",
+          "assists": "1.0567049980163574",
+          "rebounds": "1.5155420303344727"
+        },
+        {
+          "player_name": "Pippen Jr.",
+          "points": "8.303250312805176",
+          "assists": "3.6803412437438965",
+          "rebounds": "3.1761038303375244"
+        },
+        {
+          "player_name": "Jemison",
+          "points": "7.156493186950684",
+          "assists": "3.8235747814178467",
+          "rebounds": "4.598739147186279"
+        },
+        {
+          "player_name": "Evbuomwan",
+          "points": "7.029720306396484",
+          "assists": "0.9247579574584961",
+          "rebounds": "2.3236169815063477"
+        },
+        {
+          "player_name": "Stevens",
+          "points": "16.820934295654297",
+          "assists": "3.8349125385284424",
+          "rebounds": "7.8428425788879395"
+        },
+        {
+          "player_name": "Watanabe",
+          "points": "16.89905548095703",
+          "assists": "1.2158174514770508",
+          "rebounds": "2.2211174964904785"
+        },
+        {
+          "player_name": "Goodwin",
+          "points": "10.04596996307373",
+          "assists": "4.249236583709717",
+          "rebounds": "3.4274420738220215"
         }
       ]
     }
   },
   {
-    "game_id": "401585406",
-    "game_name": "New York Knicks at Orlando Magic",
+    "game_id": "401585419",
+    "game_name": "Minnesota Timberwolves at Portland Trail Blazers",
     "teams": {
-      "18": [
+      "16": [
         {
-          "player_name": "Randle",
-          "points": "20.178701400756836",
-          "assists": "5.440600872039795",
-          "rebounds": "4.068534851074219"
+          "player_name": "McDaniels",
+          "points": "15.020249366760254",
+          "assists": "2.5313146114349365",
+          "rebounds": "5.206508636474609"
         },
         {
-          "player_name": "Robinson",
-          "points": "6.187333583831787",
-          "assists": "0.35633665323257446",
-          "rebounds": "6.792479991912842"
+          "player_name": "Gobert",
+          "points": "14.662287712097168",
+          "assists": "1.6061296463012695",
+          "rebounds": "8.956355094909668"
         },
         {
-          "player_name": "Brunson",
-          "points": "26.138525009155273",
-          "assists": "7.923651218414307",
-          "rebounds": "4.471102714538574"
+          "player_name": "Towns",
+          "points": "7.1228461265563965",
+          "assists": "0.49282848834991455",
+          "rebounds": "4.863569736480713"
         },
         {
-          "player_name": "Barrett",
-          "points": "22.25856590270996",
-          "assists": "3.2325265407562256",
-          "rebounds": "10.096868515014648"
+          "player_name": "Conley",
+          "points": "6.574979305267334",
+          "assists": "2.4295787811279297",
+          "rebounds": "1.7188358306884766"
         },
         {
-          "player_name": "Grimes",
-          "points": "13.205490112304688",
-          "assists": "0.6415971517562866",
-          "rebounds": "3.552391767501831"
+          "player_name": "Edwards",
+          "points": "24.969152450561523",
+          "assists": "5.365602016448975",
+          "rebounds": "4.47041654586792"
         },
         {
-          "player_name": "Hartenstein",
-          "points": "6.554858207702637",
-          "assists": "1.4186965227127075",
-          "rebounds": "6.62729024887085"
+          "player_name": "Minott",
+          "points": "0.7585011720657349",
+          "assists": "1.7801659107208252",
+          "rebounds": "5.5209879875183105"
         },
         {
-          "player_name": "Hart",
-          "points": "11.114753723144531",
-          "assists": "6.128312110900879",
-          "rebounds": "4.500497341156006"
+          "player_name": "Anderson",
+          "points": "9.41767406463623",
+          "assists": "6.500339031219482",
+          "rebounds": "3.361821174621582"
         },
         {
-          "player_name": "DiVincenzo",
-          "points": "22.097787857055664",
-          "assists": "8.060761451721191",
-          "rebounds": "4.8723273277282715"
+          "player_name": "Garza",
+          "points": "1.6450592279434204",
+          "assists": "1.1164064407348633",
+          "rebounds": "2.2085304260253906"
         },
         {
-          "player_name": "Quickley",
-          "points": "20.995222091674805",
-          "assists": "4.065853118896484",
-          "rebounds": "0.907248318195343"
+          "player_name": "Reid",
+          "points": "9.387354850769043",
+          "assists": "1.9079211950302124",
+          "rebounds": "3.308368444442749"
         },
         {
-          "player_name": "McBride",
-          "points": "5.860655784606934",
-          "assists": "0.6374375224113464",
-          "rebounds": "2.647409439086914"
+          "player_name": "McLaughlin",
+          "points": "3.0753538608551025",
+          "assists": "0.91426682472229",
+          "rebounds": "1.441681146621704"
         },
         {
-          "player_name": "Knight",
-          "points": "3.4885661602020264",
-          "assists": "0.6879597902297974",
-          "rebounds": "0.811708390712738"
+          "player_name": "Milton",
+          "points": "9.654485702514648",
+          "assists": "0.8111510276794434",
+          "rebounds": "6.101480960845947"
         },
         {
-          "player_name": "Toppin",
-          "points": "1.3075586557388306",
-          "assists": "3.135690689086914",
-          "rebounds": "1.2051446437835693"
+          "player_name": "Alexander-Walker",
+          "points": "8.626456260681152",
+          "assists": "2.2668662071228027",
+          "rebounds": "4.535070419311523"
         },
         {
-          "player_name": "Sims",
-          "points": "9.160653114318848",
-          "assists": "1.5541179180145264",
-          "rebounds": "4.493292331695557"
-        },
-        {
-          "player_name": "Jeffries",
-          "points": "4.075144290924072",
-          "assists": "0.2549707293510437",
-          "rebounds": "1.5460712909698486"
+          "player_name": "Nix",
+          "points": "6.86126708984375",
+          "assists": "1.9029574394226074",
+          "rebounds": "2.552980899810791"
         },
         {
           "player_name": "Brown Jr.",
-          "points": "3.264397621154785",
-          "assists": "3.24308705329895",
-          "rebounds": "2.119900941848755"
+          "points": "12.117432594299316",
+          "assists": "1.554100513458252",
+          "rebounds": "5.111512660980225"
         },
         {
-          "player_name": "Roby",
-          "points": "2.227616786956787",
-          "assists": "1.4810364246368408",
-          "rebounds": "2.20102858543396"
+          "player_name": "Moore Jr.",
+          "points": "0.17305003106594086",
+          "assists": "0.19677434861660004",
+          "rebounds": "0.23373639583587646"
         },
         {
-          "player_name": "Arcidiacono",
-          "points": "2.292154312133789",
-          "assists": "1.6896694898605347",
-          "rebounds": "0.7636280655860901"
+          "player_name": "Ryan",
+          "points": "2.3122048377990723",
+          "assists": "1.1010621786117554",
+          "rebounds": "0.6441463828086853"
         },
         {
-          "player_name": "Anunoby",
-          "points": "20.001630783081055",
-          "assists": "7.748509407043457",
-          "rebounds": "5.762310981750488"
-        },
-        {
-          "player_name": "Achiuwa",
-          "points": "17.844846725463867",
-          "assists": "2.310161828994751",
-          "rebounds": "11.268848419189453"
-        },
-        {
-          "player_name": "Gibson",
-          "points": "3.7086727619171143",
-          "assists": "1.1913620233535767",
-          "rebounds": "1.3780543804168701"
-        },
-        {
-          "player_name": "Skapintsev",
-          "points": "1.5285453796386719",
-          "assists": "0.2632998824119568",
-          "rebounds": "0.2691311240196228"
+          "player_name": "Miller",
+          "points": "3.6970579624176025",
+          "assists": "0.8160146474838257",
+          "rebounds": "1.7300903797149658"
         },
         {
           "player_name": "Martin",
-          "points": "1.501686930656433",
-          "assists": "0.2367287427186966",
-          "rebounds": "0.15789446234703064"
+          "points": "1.964621901512146",
+          "assists": "-0.09662961214780807",
+          "rebounds": "-0.0664713978767395"
+        },
+        {
+          "player_name": "Keels",
+          "points": "3.7081120014190674",
+          "assists": "0.21977873146533966",
+          "rebounds": "5.236909866333008"
+        },
+        {
+          "player_name": "Carton",
+          "points": "1.0292794704437256",
+          "assists": "0.3002452552318573",
+          "rebounds": "0.9639124274253845"
+        },
+        {
+          "player_name": "Krejci",
+          "points": "-0.5609699487686157",
+          "assists": "0.28259482979774475",
+          "rebounds": "0.23602181673049927"
+        },
+        {
+          "player_name": "Morris",
+          "points": "2.7035555839538574",
+          "assists": "1.8881322145462036",
+          "rebounds": "0.9011855721473694"
         }
       ],
-      "19": [
+      "22": [
         {
-          "player_name": "Banchero",
-          "points": "27.288982391357422",
-          "assists": "3.6001715660095215",
-          "rebounds": "4.222782135009766"
+          "player_name": "Camara",
+          "points": "12.664618492126465",
+          "assists": "3.6126935482025146",
+          "rebounds": "2.740121841430664"
         },
         {
-          "player_name": "F. Wagner",
-          "points": "11.557717323303223",
-          "assists": "0.21783848106861115",
-          "rebounds": "2.2730016708374023"
+          "player_name": "Grant",
+          "points": "23.37937355041504",
+          "assists": "3.7765471935272217",
+          "rebounds": "4.268773555755615"
         },
         {
-          "player_name": "Bitadze",
-          "points": "6.083001136779785",
-          "assists": "0.12720565497875214",
-          "rebounds": "3.5568668842315674"
+          "player_name": "Ayton",
+          "points": "10.696490287780762",
+          "assists": "2.662543296813965",
+          "rebounds": "8.447344779968262"
         },
         {
-          "player_name": "Fultz",
-          "points": "7.621887683868408",
-          "assists": "0.7653197050094604",
-          "rebounds": "4.468887805938721"
+          "player_name": "Mays",
+          "points": "2.7863309383392334",
+          "assists": "0.2298360913991928",
+          "rebounds": "0.9382582306861877"
         },
         {
-          "player_name": "Suggs",
-          "points": "2.352809190750122",
-          "assists": "1.0267508029937744",
-          "rebounds": "4.570123195648193"
+          "player_name": "Sharpe",
+          "points": "13.804108619689941",
+          "assists": "0.592008113861084",
+          "rebounds": "6.6576619148254395"
         },
         {
-          "player_name": "Isaac",
-          "points": "5.631104946136475",
-          "assists": "2.701826333999634",
-          "rebounds": "3.954556465148926"
+          "player_name": "Wainright",
+          "points": "4.276586532592773",
+          "assists": "-0.11403698474168777",
+          "rebounds": "1.5704565048217773"
         },
         {
-          "player_name": "Okeke",
-          "points": "7.383786678314209",
-          "assists": "1.839672565460205",
-          "rebounds": "1.8332667350769043"
+          "player_name": "Minaya",
+          "points": "-0.3844638764858246",
+          "assists": "0.024157462641596794",
+          "rebounds": "0.1574254333972931"
         },
         {
-          "player_name": "M. Wagner",
-          "points": "2.507242441177368",
-          "assists": "-0.10002969950437546",
-          "rebounds": "3.92840576171875"
+          "player_name": "Walker",
+          "points": "6.099050998687744",
+          "assists": "3.130735158920288",
+          "rebounds": "8.391921997070312"
         },
         {
-          "player_name": "Anthony",
-          "points": "9.438577651977539",
-          "assists": "0.35782909393310547",
-          "rebounds": "3.1133780479431152"
+          "player_name": "Murray",
+          "points": "2.2221832275390625",
+          "assists": "0.9259920716285706",
+          "rebounds": "4.407105445861816"
         },
         {
-          "player_name": "Ingles",
-          "points": "8.576033592224121",
-          "assists": "0.5338605046272278",
-          "rebounds": "0.9607416987419128"
+          "player_name": "Reath",
+          "points": "2.355314016342163",
+          "assists": "1.3044016361236572",
+          "rebounds": "3.165398120880127"
         },
         {
-          "player_name": "Black",
-          "points": "4.180712699890137",
-          "assists": "-0.21073542535305023",
-          "rebounds": "1.5196115970611572"
+          "player_name": "Thybulle",
+          "points": "4.53410530090332",
+          "assists": "1.9338586330413818",
+          "rebounds": "4.0853776931762695"
         },
         {
-          "player_name": "Houstan",
-          "points": "6.083001136779785",
-          "assists": "0.12720565497875214",
-          "rebounds": "3.5568668842315674"
+          "player_name": "Bouyea",
+          "points": "0.05286708474159241",
+          "assists": "0.5097925066947937",
+          "rebounds": "2.3163530826568604"
         },
         {
-          "player_name": "Queen",
-          "points": "2.3386993408203125",
-          "assists": "0.631039023399353",
-          "rebounds": "0.3866214454174042"
+          "player_name": "Rupert",
+          "points": "1.4896278381347656",
+          "assists": "1.2751829624176025",
+          "rebounds": "5.086411476135254"
         },
         {
-          "player_name": "G. Harris",
-          "points": "11.194865226745605",
-          "assists": "3.0449564456939697",
-          "rebounds": "1.8330764770507812"
+          "player_name": "Brogdon",
+          "points": "11.525103569030762",
+          "assists": "3.291163206100464",
+          "rebounds": "2.558244228363037"
         },
         {
-          "player_name": "Schofield",
-          "points": "2.435988187789917",
-          "assists": "0.9793956279754639",
-          "rebounds": "0.42688900232315063"
+          "player_name": "Henderson",
+          "points": "13.10766887664795",
+          "assists": "6.109550476074219",
+          "rebounds": "1.8598558902740479"
         },
         {
-          "player_name": "Howard",
-          "points": "2.74127459526062",
-          "assists": "0.2605149745941162",
-          "rebounds": "0.8171319961547852"
+          "player_name": "Simons",
+          "points": "27.237184524536133",
+          "assists": "3.3712494373321533",
+          "rebounds": "6.115688323974609"
         },
         {
-          "player_name": "Carter Jr.",
-          "points": "8.497722625732422",
-          "assists": "1.4557501077651978",
-          "rebounds": "3.593432664871216"
+          "player_name": "Badji",
+          "points": "1.8102471828460693",
+          "assists": "0.5109522342681885",
+          "rebounds": "1.8439061641693115"
         },
         {
-          "player_name": "Wilson",
-          "points": "3.3809900283813477",
-          "assists": "0.0692867711186409",
-          "rebounds": "0.9561286568641663"
+          "player_name": "Williams III",
+          "points": "5.348750591278076",
+          "assists": "0.6957524418830872",
+          "rebounds": "4.200916290283203"
         },
         {
-          "player_name": "McClung",
-          "points": "4.855297565460205",
-          "assists": "1.9620088338851929",
-          "rebounds": "3.7019529342651367"
+          "player_name": "Brown",
+          "points": "6.660994529724121",
+          "assists": "0.4044405221939087",
+          "rebounds": "5.769002437591553"
         },
         {
-          "player_name": "Plowden",
-          "points": "7.642280101776123",
-          "assists": "2.876248359680176",
-          "rebounds": "3.9443960189819336"
+          "player_name": "Conditt IV",
+          "points": "5.927978038787842",
+          "assists": "1.0972504615783691",
+          "rebounds": "3.877286195755005"
         },
         {
-          "player_name": "K. Harris",
-          "points": "3.60439395904541",
-          "assists": "0.8243495225906372",
-          "rebounds": "2.229290008544922"
+          "player_name": "Knox II",
+          "points": "4.820948123931885",
+          "assists": "2.046654224395752",
+          "rebounds": "3.7877931594848633"
+        },
+        {
+          "player_name": "Moore",
+          "points": "7.6511664390563965",
+          "assists": "1.3760175704956055",
+          "rebounds": "2.7875099182128906"
+        },
+        {
+          "player_name": "Hagans",
+          "points": "3.042154312133789",
+          "assists": "0.5443296432495117",
+          "rebounds": "1.1759543418884277"
+        },
+        {
+          "player_name": "Banton",
+          "points": "12.398765563964844",
+          "assists": "2.87781023979187",
+          "rebounds": "1.905332326889038"
         }
       ]
     }
